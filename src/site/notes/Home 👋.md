@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/todo","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/todo","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 
@@ -40,6 +40,7 @@ Feel free to [[Zettelkasten/not all those who wonder are lost\|wonder]] around!
 You can have a look at my latest updated posts
 - [[Zettelkasten/Digital garden\|Digital garden]]
 - [[Zettelkasten/European Union GDPR\|European Union GDPR]]
+- [[Zettelkasten/Tech\|Tech]]
 - [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
 - [[Zettelkasten/About me\|About me]]
 
