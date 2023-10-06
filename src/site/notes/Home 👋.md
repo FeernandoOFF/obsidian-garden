@@ -30,5 +30,27 @@ See my [[Zettelkasten/About me\|About me]] note
 
 You're currently on my [[Zettelkasten/Digital garden\|Digital garden]] 
 
-Feel free to [[Zettelkasten/not all those who wonder are lost\|wonder]] around!
 ### How to navigate this site
+
+Feel free to [[Zettelkasten/not all those who wonder are lost\|wonder]] around!
+
+#### Launching points 🚀
+
+##### Recently updated posts
+You can have a look at my latest updated posts
+- [[Zettelkasten/Digital garden\|Digital garden]]
+- [[Zettelkasten/European Union GDPR\|European Union GDPR]]
+- [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
+- [[Zettelkasten/About me\|About me]]
+
+{ .block-language-dataview}
+##### MOCS
+You can have a look at my [[Maps of Content\|Maps of Content]]. 
+- [[Zettelkasten/Tech\|Tech]]
+
+{ .block-language-dataview}
+##### Projects
+You can also have a look what projects I'm up to 
+- [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
+
+{ .block-language-dataview}
