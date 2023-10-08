@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/todo","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
-![Random Image.webp|500](/img/user/Files/Random%20Image.webp)
+![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
 
 # Home 👋
 
@@ -38,6 +38,7 @@ You can have a look at my latest updated posts
 - [[Zettelkasten/Tech\|Tech]]
 - [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
 - [[Zettelkasten/About me\|About me]]
+- [[Zettelkasten/Library\|Library]]
 
 { .block-language-dataview}
 ##### MOCS
