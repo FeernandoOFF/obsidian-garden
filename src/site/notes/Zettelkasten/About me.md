@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["status/todo","personal"],"noteIcon":"","created":"2023-10-06T22:06:27.367+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["personal","status/done"],"noteIcon":"","created":"2023-10-06T22:06:27.367+01:00"}
 ---
 
 
 # About me
+
+
+![[Recording 20231008153048.webm]]
+
 ![IMG_6550.jpg|80%](/img/user/Files/IMG_6550.jpg)
 
 Hello traveler of the web! 👋 My name is Fernando and I'm delighted to share a bit about myself with you. Well, at some moment of the history  I was born, lets start with that.
@@ -38,6 +42,20 @@ What do I know and what do I want to know?
 - [[Zettelkasten/Life plan\|Vision board]]
 
 
+### People in my life
+- [[Zettelkasten/Pedro Mendez\|Pedro Mendez]]
+- [[Zettelkasten/Lais\|Lais]]
+- [[Zettelkasten/Esmeralda\|Esmeralda]]
+- [[Templates/People Template\|People Template]]
+- [[People/Vilja\|Vilja]]
+- [[People/Jane\|Jane]]
+- [[People/Eddie Martin\|Eddie Martin]]
+- [[People/Carol\|Carol]]
+- [[People/Mario Tejada\|Mario Tejada]]
+- [[People/Diana Mota\|Diana Mota]]
+- [[People/Michelle Guevara\|Michelle Guevara]]
+
+{ .block-language-dataview}
 
 
 ## Relates to
