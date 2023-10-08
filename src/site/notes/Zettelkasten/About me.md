@@ -4,7 +4,7 @@
 
 
 # About me
-![IMG_6550.jpg|400](/img/user/Files/IMG_6550.jpg)
+![IMG_6550.jpg|80%](/img/user/Files/IMG_6550.jpg)
 
 Hello traveler of the web! 👋 My name is Fernando and I'm delighted to share a bit about myself with you. Well, at some moment of the history  I was born, lets start with that.
 
@@ -13,24 +13,29 @@ I was born in [[Zettelkasten/Mexico\|Mexico]], in the [[Zettelkasten/Puebla\|cit
 >More about me in [[Zettelkasten/My personal history\|My personal history]]
 
 #### **How I think of me?**
-I consider myself a [[Lifelong learning\|life long learner]], and I constantly look for opportunities of improvement by learning new [[Zettelkasten/About me#Skills\|#Skills]] and looking for other people's [[Zettelkasten/The importance of feedback\|feedback]].  Besides that I also love to share things that I learn and have meaningful discussions, one of the things that I [[Zettelkasten/Things I gravitate towards\|gravitate towards]] is that I always try to [[Min-max\|Min-max]] everything that I do and have in my life.
+I consider myself a [[Lifelong learning\|life long learner]], and I constantly look for opportunities of improvement by learning new [[Zettelkasten/About me#Skills\|skills]] and looking for other people's [[Zettelkasten/The importance of feedback\|feedback]].  Besides that I also love to share things that I learn and have meaningful discussions, one of the things that I [[Zettelkasten/Things I gravitate towards\|gravitate towards]] is that I always try to [[Min-max\|Min-max]] everything that I do and have in my life, which Involves my [[Zettelkasten/My digital environment\|Digital life]] and [[My Essentials\|My Essentials]]
 
-####  **Interests:**
-What do I know and what do I want to know?
-[[Library\|Library]]
-In addition to technology What do I use in my  [[Zettelkasten/My digital environment\|Digital life]] and my [[My Essentials\|My Essentials]]
+#### **Interests:**
+What do I know and what do I want to know? 
+[[Zettelkasten/Library\|Library]]
 
-But beside technology, there are some core-values that I [[Zettelkasten/Things I gravitate towards\|gravitate towards]]
 
-- Who Do I admire and why?
-- Valuable lessons I've learned
-- What do I want to know?
-- 
-### Skills
+### Who do I admire and respect? Why?
+
+- Freddy Vega: Funny, Talented, Well speech, inspiring
+
 
 ### What Valuable Things Have I Learned From Each Person In My Life?
 
+- Mom: Thanks for showing me how to be self-sufficient and provide me with the safety net to go forward trusting in me but knowing that someone is always with me.
+- Mario: Thanks for showing me that loving a friend is possible and that even though you can be gone from each other's environment, you their life
+- Michelle: Thanks for showing me what a good relationship is, but mos important, what a good life partner is.
+- Italia: Thanks for showing me how much passionate someone can be about something, and that persistence is a key factor.
+- Gabriel: Thanks for showing me how a friendship can evolve through the time and still feel like brothers.
 
+
+### Vision
+- [[Zettelkasten/Life plan\|Vision board]]
 
 
 
