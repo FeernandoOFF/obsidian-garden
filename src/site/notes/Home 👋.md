@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/todo","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -15,7 +15,7 @@
 Hi! I'm Fernando Obregon, a passionate [[Zettelkasten/21st Century creator\|creator]] and  [[Software developer\|Software developer]] . Currently based on [[Zettelkasten/Ireland#Dublin\| Dublin, Ireland]].  I like to share things that I learn and other stuff like:
 - [[Min-max\|Min-max]] your life
 - [[Zettelkasten/productivity\|Productivity]] with Technology
-- [[Software comparisons\|Software comparisons]]
+- [[Zettelkasten/Software comparisons\|Software comparisons]]
 - [[Zettelkasten/Digital minimalism\|Digital minimalism]]
 
 ### Me in more time
@@ -31,6 +31,9 @@ Keep in mind that this notes are meant for personal use and you'll often come ac
 This garden can be quite overwhelming so feel free to use any of the options shown below. You can always [[Zettelkasten/not all those who wonder are lost\|wonder]] around! 
 #### Launching points 🚀
 
+##### Library
+My library is where I gather most of my interests and MOCs.
+- [[Zettelkasten/Library\|Library]]
 ##### Recently updated posts
 You can have a look at my latest updated posts
 - [[Zettelkasten/Digital garden\|Digital garden]]
@@ -39,6 +42,7 @@ You can have a look at my latest updated posts
 - [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
 - [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Library\|Library]]
+- [[Zettelkasten/Software comparisons\|Software comparisons]]
 
 { .block-language-dataview}
 ##### MOCS
