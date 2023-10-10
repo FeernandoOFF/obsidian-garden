@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/library/","title":"Library","tags":["personal","status/done"],"noteIcon":"","created":"2023-10-08T13:11:35.828+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/library/","title":"Library","tags":["personal","status/done","core/important-ideas"],"noteIcon":"","created":"2023-10-08T13:11:35.828+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@ This note holds most of my interests and different MOCS within those topics:
 
 ## 000 - Tech
 
-[[Zettelkasten/Tech\|Tech MOC]] | [[Web Development MOC\|Web Development MOC]] | [[Android Development MOC\|Android Development MOC]]
+[[Zettelkasten/Technology\|Tech MOC]] | [[Zettelkasten/Web development MOC\|Web Development MOC]] | [[Android Development MOC\|Android Development MOC]] | [[iOS MOC\|iOS MOC]] | [[Electronics MOC\|Electronics MOC]]
 
 ---
 
