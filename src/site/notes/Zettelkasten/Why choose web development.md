@@ -17,7 +17,7 @@ Another thing that I've found in my path as a web developer is that the communit
 
 ### Versatility 
 
-Similar to the last two points, the [[Javascript Ecosystem\|Javascript Ecosystem]] is huge, and has reach a point where you can create [[Multiplatform Development\|multiplatform apps]] so you're not just restrained into a browser, so once you reach a decent level you'll be able to also ship things to other platforms and more users. 
+Similar to the last two points, the [[Zettelkasten/Javascript Ecosystem\|Javascript Ecosystem]] is huge, and has reach a point where you can create [[Multiplatform Development\|multiplatform apps]] so you're not just restrained into a browser, so once you reach a decent level you'll be able to also ship things to other platforms and more users. 
 
 ### Excellent for creative people
 
