@@ -23,7 +23,7 @@ See my [[Zettelkasten/About me\|About me]] note
 
 ## About this site
 
-You're currently on my [[Zettelkasten/Digital garden\|Digital garden]], my little corner in the [[internet\|internet]] and here I share my noes publicly 
+You're currently on my [[Zettelkasten/Digital garden\|Digital garden]], my little corner in the [[Zettelkasten/Internet\|Internet]] and here I share my noes publicly 
 Keep in mind that this notes are meant for personal use and you'll often come across with unfinished notes, if you're interested in something in specific, you can always [reach me](https://feernandooff.com) ;)
 
 
@@ -38,16 +38,19 @@ My library is where I gather most of my interests and MOCs.
 You can have a look at my latest updated posts
 - [[Zettelkasten/Digital garden\|Digital garden]]
 - [[Zettelkasten/European Union GDPR\|European Union GDPR]]
-- [[Zettelkasten/Tech\|Tech]]
 - [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
+- [[Zettelkasten/Software comparisons\|Software comparisons]]
 - [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Library\|Library]]
-- [[Zettelkasten/Software comparisons\|Software comparisons]]
+- [[Zettelkasten/Technology\|Technology]]
+- [[Zettelkasten/Internet of Things\|Internet of Things]]
+- [[Zettelkasten/Why choose web development\|Why choose web development]]
+- [[Zettelkasten/World Wide Web\|World Wide Web]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
-- [[Zettelkasten/Tech\|Tech]]
+- [[Zettelkasten/Technology\|Technology]]
 
 { .block-language-dataview}
 ##### Projects
