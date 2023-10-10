@@ -12,23 +12,28 @@
 2. Overview of web technologies
 	1. [[Zettelkasten/World Wide Web\|World Wide Web]]
 	2. [[Zettelkasten/Internet\|Internet]]
+	3. [[Zettelkasten/HTTP\|HTTP]]
 3. Client-Server architecture
-4. HTTP and web protocols
 
 ## Front-end Development
 1. [[Zettelkasten/HTML\|HTML]]
 2. [[Zettelkasten/CSS\|CSS]]
-3. [[Zettelkasten/JavaScript\|JavaScript]]
+3. [[Zettelkasten/JavaScript MOC\|JavaScript]]
 
 ## Back-end Development
 1. Server-side languages
-	1. [[Node JS\|Node JS]]
+	1. [[Zettelkasten/JavaScript MOC\|NodeJS]]
 	2. [[Python\|Python]]
 	3. [[Rust\|Rust]]
 	4. [[Go\|Go]]
 
 ## Web development Frameworks and Tools
-- [[Javascript Ecosystem\|Front-end Frameworks]]
+- [[Zettelkasten/Javascript Ecosystem\|Front-end Frameworks]]
+- Javascript ecosystem - frameworks
+- Other language's frameworks
+	- Blazor
+	- Yew
+	- Flutter
 - Bundlers
 
 ## Database Integration
@@ -39,7 +44,8 @@
 	- [[ORM\|ORM]]
 
 ## Web security and best practices
-
+- [[SEO\|SEO]]
+- [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
 ## Web testing
 - [[Web Scrapping\|Web Scrapping]]
 ## Web deployment
@@ -50,19 +56,12 @@
 
 
 
-### Languages ,Concepts & Frameworks
-- [[Zettelkasten/HTML\|HTML]]
-- [[Zettelkasten/CSS\|CSS]]
-- [[Zettelkasten/JavaScript\|JavaScript]]
-
 #### Concepts
 
 - [[Zettelkasten/Web site vs Web App architecture\|Web site vs Web App architecture]]
 	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
 	- [[What makes a good app?\|What makes a good app?]]
 - [[PWA\|PWA]]
-- [[Backend\|Backend]]
-	-  [[Node JS\|Node JS]]
  
 #### Frameworks
 - [[Zettelkasten/React\|React]]
