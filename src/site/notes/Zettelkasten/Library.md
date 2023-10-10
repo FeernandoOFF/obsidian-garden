@@ -13,7 +13,7 @@ This note holds most of my interests and different MOCS within those topics:
 
 ## 000 - Tech
 
-[[Zettelkasten/Technology\|Tech MOC]] | [[Zettelkasten/Web development MOC\|Web Development MOC]] | [[Android Development MOC\|Android Development MOC]] | [[iOS MOC\|iOS MOC]] | [[Electronics MOC\|Electronics MOC]]
+[[Zettelkasten/Technology\|Tech MOC]] | [[Zettelkasten/Web development MOC\|Web Development MOC]] | [[Android Development MOC\|Android Development MOC]] | [[iOS MOC\|iOS MOC]] | [[Electronics MOC\|Electronics MOC]] | [[Zettelkasten/AI MOC\|AI MOC]] | 
 
 ---
 
@@ -37,6 +37,10 @@ This note holds most of my interests and different MOCS within those topics:
 
 [[Zettelkasten/productivity\|productivity]] | [[Min-max\|Min-max]]
 
+---
+## 500 - Languages & Communication
+
+[[Zettelkasten/English\|English]] | [[Zettelkasten/Spanish\|Spanish]] | [[French\|French]] | [[Portuguese\|Portuguese]]
 
 
 
