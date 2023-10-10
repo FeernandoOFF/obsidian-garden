@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["personal","status/done"],"noteIcon":"","created":"2023-10-06T22:06:27.367+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["personal","status/done","core/important-ideas"],"noteIcon":"","created":"2023-10-06T22:06:27.367+01:00"}
 ---
 
 
 # About me
 
-
-![[Recording 20231008153048.webm]]
 
 ![IMG_6550.jpg|80%](/img/user/Files/IMG_6550.jpg)
 
@@ -47,13 +45,13 @@ What do I know and what do I want to know?
 - [[Zettelkasten/Lais\|Lais]]
 - [[Zettelkasten/Esmeralda\|Esmeralda]]
 - [[Templates/People Template\|People Template]]
+- [[People/Diana Mota\|Diana Mota]]
 - [[People/Vilja\|Vilja]]
+- [[People/Michelle Guevara\|Michelle Guevara]]
+- [[People/Mario Tejada\|Mario Tejada]]
 - [[People/Jane\|Jane]]
 - [[People/Eddie Martin\|Eddie Martin]]
 - [[People/Carol\|Carol]]
-- [[People/Mario Tejada\|Mario Tejada]]
-- [[People/Diana Mota\|Diana Mota]]
-- [[People/Michelle Guevara\|Michelle Guevara]]
 
 { .block-language-dataview}
 
