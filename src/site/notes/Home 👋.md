@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -38,20 +38,23 @@ My library is where I gather most of my interests and MOCs.
 You can have a look at my latest updated posts
 - [[Zettelkasten/Digital garden\|Digital garden]]
 - [[Zettelkasten/European Union GDPR\|European Union GDPR]]
-- [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
-- [[Zettelkasten/Software comparisons\|Software comparisons]]
+- [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/About me\|About me]]
-- [[Zettelkasten/Library\|Library]]
-- [[Zettelkasten/Technology\|Technology]]
+- [[Zettelkasten/History of Javascript\|History of Javascript]]
+- [[Zettelkasten/How the web changed society\|How the web changed society]]
+- [[Zettelkasten/ISO\|ISO]]
 - [[Zettelkasten/Internet of Things\|Internet of Things]]
-- [[Zettelkasten/Why choose web development\|Why choose web development]]
-- [[Zettelkasten/World Wide Web\|World Wide Web]]
+- [[Zettelkasten/Internet\|Internet]]
+- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/Technology\|Technology]]
+- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
+- [[Zettelkasten/Web development MOC\|Web development MOC]]
+- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 
 { .block-language-dataview}
 ##### Projects
