@@ -45,12 +45,12 @@ What do I know and what do I want to know?
 - [[Zettelkasten/Lais\|Lais]]
 - [[Zettelkasten/Esmeralda\|Esmeralda]]
 - [[Templates/People Template\|People Template]]
-- [[People/Diana Mota\|Diana Mota]]
 - [[People/Vilja\|Vilja]]
 - [[People/Michelle Guevara\|Michelle Guevara]]
 - [[People/Mario Tejada\|Mario Tejada]]
 - [[People/Jane\|Jane]]
 - [[People/Eddie Martin\|Eddie Martin]]
+- [[People/Diana Mota\|Diana Mota]]
 - [[People/Carol\|Carol]]
 
 { .block-language-dataview}
