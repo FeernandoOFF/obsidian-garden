@@ -30,6 +30,9 @@ The web has a ton of resources and packages, that allow creative people to be [[
 As many other tech-related professions you'll have the opportunity to be a **freelancer**. The benefit that web development has is that you can offer to any medium-small business as **more people need a website than an app**.
 
 
+
+---
+
 ## Reasons to consider other alternatives
 
 
