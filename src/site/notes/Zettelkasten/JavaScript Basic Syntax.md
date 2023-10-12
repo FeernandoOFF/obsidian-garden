@@ -90,7 +90,7 @@ function myFunction() {
 #### Sets
 
 ### Functions
-- similarities to [[Zettelkasten/Kotlin\|Kotlin]]
+- similarities to [[Zettelkasten/Kotlin Syntax\|Kotlin Syntax]]
 - assign variables
 ```js
 function myFunction(param,param,...theRestOfParams){
