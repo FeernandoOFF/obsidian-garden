@@ -19,7 +19,10 @@
 1. [[Zettelkasten/HTML\|HTML]]
 2. [[Zettelkasten/CSS\|CSS]]
 3. [[Zettelkasten/JavaScript MOC\|JavaScript]]
-
+4. [[Zettelkasten/Web site vs Web App architecture\|Web site vs Web App architecture]]
+	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
+	- [[What makes a good app?\|What makes a good app?]]
+5. [[PWA\|PWA]]
 ## Back-end Development
 1. Server-side languages
 	1. [[Zettelkasten/JavaScript MOC\|NodeJS]]
@@ -51,61 +54,14 @@
 ## Web deployment
 
 
-
----
-
-
-
-#### Concepts
-
-- [[Zettelkasten/Web site vs Web App architecture\|Web site vs Web App architecture]]
-	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
-	- [[What makes a good app?\|What makes a good app?]]
-- [[PWA\|PWA]]
- 
-#### Frameworks
-- [[Zettelkasten/React\|React]]
-- [[Vue\|Vue]]
-- [[Zettelkasten/Svelte\|Svelte]]
-
----
-## Building an App
-### Design Patterns
-The "best" design pattern to use in web development depends on the specific problem being solved and the programming language and framework being used. It's important to choose the appropriate design pattern that fits the problem at hand and helps to achieve the desired outcome
-1. Model-View-Controller ([[Zettelkasten/MVC\|MVC]])
-2. [[Zettelkasten/Singleton Pattern\|Singleton Pattern]]
-3. Factory
-4. [[Observer Pattern\|Observer Pattern]]
-5. Adapter
-6. Decorator
-7. Facade
-8. Strategy
-9. Template Method
-10. Proxy
-11. [[Components\|Components]]
-### Folder structure
-- [[Web Folder Structure\|Web Folder Structure]]
-
-
----
-## Testing an App
-When implementing [[Zettelkasten/Testing\|Testing]] on a web development we have tools like:
- - [[Playwright\|Playwright]] for E2E Testing
-- And [[Jest\|Jest]] for UnitTesting
-
----
 ## Advanced
-### Environment variables
-### Debug
-- Recorder
-- [[Chrome DevTools\|Chrome DevTools]]
-- Netowrking
-- Profiler
-### Analytics
-### Payments
-### Internationalisation
-### Accessibility 
-- [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
+
+1. Payments
+ 1. Apple pay
+ 2. Google pay
+ 3. Stripe
+ 4. [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
+---
 
 
 ## References
