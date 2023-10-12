@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -37,24 +37,24 @@ My library is where I gather most of my interests and MOCs.
 ##### Recently updated posts
 You can have a look at my latest updated posts
 - [[Zettelkasten/Digital garden\|Digital garden]]
-- [[Zettelkasten/European Union GDPR\|European Union GDPR]]
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/About me\|About me]]
-- [[Zettelkasten/History of Javascript\|History of Javascript]]
-- [[Zettelkasten/How the web changed society\|How the web changed society]]
-- [[Zettelkasten/ISO\|ISO]]
-- [[Zettelkasten/Internet of Things\|Internet of Things]]
-- [[Zettelkasten/Internet\|Internet]]
+- [[Zettelkasten/Android Activities\|Android Activities]]
+- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/Android Fragments\|Android Fragments]]
+- [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
+- [[Zettelkasten/App architecture\|App architecture]]
+- [[Zettelkasten/Architecture Patterns for Building UIs\|Architecture Patterns for Building UIs]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
 - [[Zettelkasten/AI MOC\|AI MOC]]
-- [[Zettelkasten/Technology\|Technology]]
-- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
+- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/Technology\|Technology]]
 
 { .block-language-dataview}
 ##### Projects
