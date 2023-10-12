@@ -29,6 +29,12 @@ The web has a ton of resources and packages, that allow creative people to be [[
 
 As many other tech-related professions you'll have the opportunity to be a **freelancer**. The benefit that web development has is that you can offer to any medium-small business as **more people need a website than an app**.
 
+### Multi-platform
+
+The web allows you to access your app to **all platforms** regarding their OS and spects, and with evolving technologies like More Browser APIs, Responsive and PWAs designs you can build a pretty feature-complete app with just web technologies
+
+#### Super multi-platform
+Besides the ability to run a web app anywhere you can also create **native apps** with [[React Native\|React Native]] that enables you to create a native app. See [[Multiplatform Development\|Multiplatform Development]] for more info.
 
 
 ---
@@ -52,7 +58,12 @@ Although all tech-related jobs are well paid on **AVERAGE** web development is o
 
 ### Create a native app
 
-If you have no coding skills but want to learn to create an idea that you have it might be worth investigating if **is doable** with web development tools, specially if you're looking to use platform-specific features.
+If you have no coding skills but want to learn to create an idea that you have it might be worth investigating if **is doable** with web development tools, specially if you're looking to use platform-specific features, like: 
+
+- Widgets
+- App clips
+- Watch / WearOS apps
+
 
 ## Relates to
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
