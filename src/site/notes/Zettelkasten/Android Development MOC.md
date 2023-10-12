@@ -3,65 +3,75 @@
 ---
 
 
-# Android Development MOC
+# Map of Content: Android Development 
 
 
 ## Introduction to Android Development
 
-1. [[Zettelkasten/Why choose Android Development\|Why choose Android Development]]
-2. Initial Setup
-	1. [[Zettelkasten/Android Studio\|Android Studio]] - [[JetBrains\|JetBrains]]
+- [[Zettelkasten/Why choose Android Development\|Why choose Android Development]]
+- Starting guide
+	1. [[Zettelkasten/Android Studio\|Android Studio]] ([[JetBrains\|JetBrains]])
 	2. SDK
 	3. NDK
-3. Programming languages
-	1. [[Java\|Java]]
-	2. [[Zettelkasten/Kotlin\|Kotlin]]
+	4. Gradle
+	5. [[Java\|Java]]
+	6. [[Zettelkasten/Kotlin Syntax\|Kotlin Syntax]]
 
-## Basic Concepts
-1. [[Zettelkasten/App architecture\|App architecture]]
-2. [[Zettelkasten/Android Manifest\|Android Manifest]]
-3. Intent
-4. Activities and Fragments
-6. Permissions
-	1. Manifest permissions
-	2. Runtime permissions
+- Understanding Android app components
+	- [[Zettelkasten/Android Activities\|Android Activities]]
+	- [[Zettelkasten/Android Fragments\|Android Fragments]]
+	- Services 
+	- Intent
+	- [[Zettelkasten/Android Manifest\|Android Manifest]] 
 
 ## Building an App
-1. Building UI
-	1. .[[Zettelkasten/Android XML\|Android XML]]
-		1. [[Data  binding \|Data  binding ]]
-		2. View Binding
+1. [[Zettelkasten/App architecture\|App architecture]]
+2. Building UI
+	1. .[[Zettelkasten/Android XML\|Android XML]]		
+		1. View Binding
+		2. [[Data  binding \|Data  binding ]]
 	2. [[Zettelkasten/Jetpack Compose\|Jetpack Compose]]
 3. [[Zettelkasten/Android Folder Structure\|Android Folder Structure]]
-4. Networking
-5. Design patterns
+4. Navigation
+5. Modularisation
+6. [[Android Networking\|Android Networking]]
+7. Design patterns
 	1. MVVM
 	2. Observable
 	3. Singleton
 	4. Factory
 	5. Adapter
  
-5. Data storage
-6. Background processing
-7. Location and Maps
-8. Camera and Multimedia
-
-## After
-1. Build Variants
-2. Testing
-	1. UnitTesting
-	2. Instrumentation testing
-3. Publishing the app
-
-
 ## Advanced
-1. Env Vars
-2. Payments
-3. Analytics
-4. Internacionalization
-5. Accessibility
+1. Payments
+2. Working with Sensors and Haradware
+3. Data storage
+4. Background processing
+5. Location and Maps
+6. Camera and Multimedia 
+7. Build Variants
+8. Error handeling
+9. Push notification
 
+## Publishing the app
+1. Publishing Android App
+2. Google play console
+
+## Best practices
+
+
+1. Testing
+	1. UnitTesting
+	2. [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
+2. Performance
+3. Security
+4. Accessibility 
+5. Internationalization
+6. Permissions
+	1. Manifest permissions
+	2. Runtime permissions
+7. Version control
 ## Relates to
 ## References
 
-[[Zettelkasten/Android Development\|Android Development]]
+
