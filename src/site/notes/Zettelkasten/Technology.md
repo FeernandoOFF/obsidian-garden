@@ -22,11 +22,11 @@
 
 ## Areas of Technology 
 
-1. [[Software development\|Software development]]
+1. [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
 	1. [[Zettelkasten/Web development MOC\|Web development MOC]]
 	2. [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 	3. [[Zettelkasten/iOS Development\|iOS Development]]
-	5. [[Multiplatform Development\|Multiplatform Development]]
+	4. [[Multiplatform Development\|Multiplatform Development]]
 2. [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]] and [[Machine Learning\|Machine Learning]]
 	1. [[Natural Language Processing\|Natural Language Processing]] and [[Computer Vision\|Computer Vision]]
 	2. [[Deep Learning\|Deep Learning]]
