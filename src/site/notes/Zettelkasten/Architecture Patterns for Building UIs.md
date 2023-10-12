@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-u-is/","title":"Architecture patterns","tags":["status/todo"],"noteIcon":"","created":"2023-10-11T11:53:54.133+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-u-is/","title":"Architecture patterns","tags":["status/todo","core/tech/fundamentals"],"noteIcon":"","created":"2023-10-11T11:53:54.133+01:00"}
 ---
 
 
 # Architecture patterns
 https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac
+https://www.linkedin.com/pulse/mvvm-flux-back-again-andrei-fangli
+https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1
 
 ## What are architecture patterns
 
@@ -40,7 +42,6 @@ When the UI is static, like HTML or any layouts
 ### MVP
 
 ### VIPER
-https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1
 ### MVI
 
 ### FLUX
