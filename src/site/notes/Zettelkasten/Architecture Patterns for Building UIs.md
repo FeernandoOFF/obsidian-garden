@@ -8,10 +8,18 @@ https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac
 https://www.linkedin.com/pulse/mvvm-flux-back-again-andrei-fangli
 https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1
 
-## What are architecture patterns
+## What are Architecture Patterns
 
-The ones that I use
-## The big ones
+An app has to be planned, and architecture patterns help with that planning process, they are commonly used solutions or approaches for designing the structure and organisation of software. They provide guidelines and best practices that allow to create scalable, maintainable and robust applications.
+
+
+### What are Design Patterns?
+
+As well as Architecture Patterns they provide guidelines and best practices but at a more atomic level inside the app, helping make the code testable, reusable and readable.
+
+## The main Architecture patterns
+
+
 ### MVVM Architecture
 
 #### Benefits
