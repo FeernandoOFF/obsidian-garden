@@ -13,7 +13,7 @@
 	1. [[Zettelkasten/Android Studio\|Android Studio]] ([[JetBrains\|JetBrains]])
 	2. SDK
 	3. NDK
-	4. Gradle
+	4. Gradle- Dependency management
 	5. [[Java\|Java]]
 	6. [[Zettelkasten/Kotlin Syntax\|Kotlin Syntax]]
 
@@ -23,6 +23,10 @@
 	- Services 
 	- Intent
 	- [[Zettelkasten/Android Manifest\|Android Manifest]] 
+	- Extra
+		- Single-Activity Architecture
+		- Context
+		- Dependency Injection
 
 ## Building an App
 1. [[Zettelkasten/App architecture\|App architecture]]
@@ -71,6 +75,9 @@
 	1. Manifest permissions
 	2. Runtime permissions
 7. Version control
+
+## Guides
+- [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
 ## Relates to
 ## References
 
