@@ -41,17 +41,17 @@ What do I know and what do I want to know?
 
 
 ### People in my life
-- [[Zettelkasten/Pedro Mendez\|Pedro Mendez]]
-- [[Zettelkasten/Lais\|Lais]]
-- [[Zettelkasten/Esmeralda\|Esmeralda]]
 - [[Templates/People Template\|People Template]]
-- [[People/Vilja\|Vilja]]
+- [[Zettelkasten/Esmeralda\|Esmeralda]]
 - [[People/Michelle Guevara\|Michelle Guevara]]
+- [[People/Vilja\|Vilja]]
 - [[People/Mario Tejada\|Mario Tejada]]
 - [[People/Jane\|Jane]]
 - [[People/Eddie Martin\|Eddie Martin]]
 - [[People/Diana Mota\|Diana Mota]]
 - [[People/Carol\|Carol]]
+- [[Zettelkasten/Lais\|Lais]]
+- [[Zettelkasten/Pedro Mendez\|Pedro Mendez]]
 
 { .block-language-dataview}
 
