@@ -36,25 +36,25 @@ My library is where I gather most of my interests and MOCs.
 - [[Zettelkasten/Library\|Library]]
 ##### Recently updated posts
 You can have a look at my latest updated posts
-- [[Zettelkasten/Digital garden\|Digital garden]]
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Activities\|Android Activities]]
-- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-- [[Zettelkasten/Android Fragments\|Android Fragments]]
 - [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
 - [[Zettelkasten/App architecture\|App architecture]]
-- [[Zettelkasten/Architecture Patterns for Building UIs\|Architecture Patterns for Building UIs]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
+- [[Zettelkasten/Architecture Patterns for Building UIs\|Architecture Patterns for Building UIs]]
+- [[Zettelkasten/Android Fragments\|Android Fragments]]
+- [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
+- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
 - [[Zettelkasten/AI MOC\|AI MOC]]
-- [[Zettelkasten/Web development MOC\|Web development MOC]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
-- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/Web development MOC\|Web development MOC]]
 - [[Zettelkasten/Technology\|Technology]]
+- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 
 { .block-language-dataview}
 ##### Projects
