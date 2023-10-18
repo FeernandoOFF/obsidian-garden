@@ -3,7 +3,7 @@
 ---
 
 
-[[export/Why choose web development/index.html|Presentation]]
+![[export/Why choose web development/index.html|Presentation]]
 ## Reasons to choose web development
 
 > TL;DR I'd recommend Web development to all the people who is always willing to **build stuff** and share it. Or if you're not a technical guy and you're trying to **prototype an idea.**
