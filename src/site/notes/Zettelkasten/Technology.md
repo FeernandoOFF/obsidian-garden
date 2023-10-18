@@ -15,6 +15,9 @@
 
 ## Usefulness of learning technology
 
+>[!warning] Remember that
+[[Zettelkasten/The benefits of a system don’t increase with his complexity\|The benefits of a system don’t increase with his complexity]].  And sometimes less is more. And you're likely to solve imaginary problems and make your life harder than initially was.
+
 1. Enhancing problem-solving and critical thinking skills
 2. Increasing efficiency and productivity in various fields
 3. Expanding career opportunities and job prospects
@@ -49,13 +52,6 @@
 >  - 
 >  > You should have a look at [DIY in Tech](DIY%20in%20Tech)
 
-
----
-
->[!warning] Remember that
-[[Zettelkasten/The benefits of a system don’t increase with his complexity\|The benefits of a system don’t increase with his complexity]].  And sometimes less is more
->
->  And you're likely to solve imaginary problems and make your life harder than initially was.
 
 
 
