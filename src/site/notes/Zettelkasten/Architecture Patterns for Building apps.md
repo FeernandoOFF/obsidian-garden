@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-apps/","title":"Architecture patterns","tags":["status/todo","core/tech/fundamentals"],"noteIcon":"","created":"2023-10-11T11:53:54.133+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-apps/","title":"Architecture patterns","tags":["status/todo","core/tech/fundamentals"],"dgHomeLink":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","noteIcon":"","created":"2023-10-11T11:53:54.133+01:00"}
 ---
 
 
@@ -40,7 +40,7 @@ As well as [[Zettelkasten/Architecture Patterns for Building apps\|Architecture 
 
 ## Most know architecture patterns
 
-Before we dive into the architecture patterns I'd like to section  them in the areas they focus on and I think that [[Zettelkasten/Clean Architecture\|Clean Architecture]] makes the separation  really easily to undestand by having a **presentation, data and domain layers** so instead of giving you a full list of architecture patterns I will give you for each area of your app and even how they can interact one with another.
+Before we dive into the architecture patterns I'd like to section  them in the areas they focus on and I think that [[Zettelkasten/Clean Architecture\|Clean Architecture]] makes the separation  really easily to understand by having a **presentation, data and domain layers** so instead of giving you a full list of architecture patterns I will give you for each area of your app and even how they can interact one with another.
 
 #### The Presentation Layer
 - [[Zettelkasten/MVVM\|MVVM]]
@@ -63,6 +63,7 @@ Uni directional flow
 
 
 ## Relates to
+[[Architecture Patterns for Building WebApps\|Architecture Patterns for Building WebApps]]
 
 ## References
 
