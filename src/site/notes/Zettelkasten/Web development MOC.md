@@ -23,6 +23,7 @@
 	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
 	- [[What makes a good app?\|What makes a good app?]]
 5. [[PWA\|PWA]]
+6. How a Browser works
 ## Back-end Development
 1. Server-side languages
 	1. [[Zettelkasten/JavaScript MOC\|NodeJS]]
