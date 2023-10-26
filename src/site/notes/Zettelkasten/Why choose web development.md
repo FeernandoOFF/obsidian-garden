@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/zettelkasten/why-choose-web-development/","title":"Why choose web development","tags":["core/tech/web-development","status/done"],"noteIcon":"","created":"2023-10-10T12:55:53.669+01:00"}
 ---
 
-
-![[export/Why choose web development/index.html|Presentation]]
 ## Reasons to choose web development
 
 > TL;DR I'd recommend Web development to all the people who is always willing to **build stuff** and share it. Or if you're not a technical guy and you're trying to **prototype an idea.**
