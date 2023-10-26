@@ -4,11 +4,25 @@
 
 
 # Clean Architecture
-## Structure
-### Presentation layer
+
+## What does it solves?
+
+## Core principles
+
+Unidirectional flow
+Separation of conserns
+ unidirectional flow
+- data layer unit tested
+- ui sends triggers events callbacks and data layer updates the data that the UI reacts to
+## Benefits
+## Implementation
+
+---
+### Concepts
+#### Presentation layer
 > [See video](https://youtu.be/p9VR8KbmzEE)
 
-### Domain layer
+#### Domain layer
 
 ###### Model
 Defines the values that a data model has
@@ -25,7 +39,7 @@ This gets inserted in the viewModel as a dependency
 
 Uses repository (from whichever source is comming) and handles the **business logic inside** it
 
-### Data layer
+#### Data layer
 ###### Repository implementation
 Implements the repository interface created in the [[Zettelkasten/Clean Architecture#Domain layer\|#Domain layer]] under the 
 
@@ -42,24 +56,26 @@ Divide code by **features** (one or more screens)
 > Do **not** name your folders related to the library, i.e instead of okhttp2 call it API
 
 
+---
+#### Implementation chart
 
 ```mermaid
 graph LR
-    C["your_app"] --> ui 
-    C["your_app"] --> di
-    C["your_app"] --> core
+    C["your_app"] ---> ui 
+    C["your_app"] ---> di
+    C["your_app"] ---> core
     C --> mainActivity
     C --> appFeature["feature_X"]
     
-    appFeature--> dataLayer["data"]
-    appFeature--> domainLayer["domain"]
-    appFeature--> presentationLayer["presentation"]
+    appFeature --> dataLayer["data"]
+    appFeature --> domainLayer["domain"]
+    appFeature ---> presentationLayer["presentation"]
 
-	dataLayer---> dataSource 
-	dataLayer---> dataRepositoryIMP["Repository IMPL"] 
+	dataLayer--> dataSource 
+	dataLayer--> dataRepositoryIMP["Repository IMPL"] 
  
-	dataSource ---> dataDAO["Data Access Object"] 
-	dataSource ---> Database
+	dataSource --> Database[(Database)]
+	dataSource --> dataDAO["Data Access Object"] 
 
 
 	dataRepositoryIMP---> domainRep
@@ -69,18 +85,19 @@ graph LR
 	domainLayer ---> domainRepository["repository"]
 	domainLayer---> domainUseCases["use cases"]
 
-	domainModel ---> Model
-	domainRepository ---> domainRep["Repository Interface"]
-	domainUseCases ---> domainRep
-
+	domainRepository --> domainRep["Repository Interface"]
+	domainUseCases --> domainRep
+ 
+	presentationLayer --> ViewModel --> domainRep
+	presentationLayer --> View
 ```
 
-- Shared modules? 
 
-#### unidirectional flow
-- data layer unit tested
-- ui sends triggers events callbacks and data layer updates the data that the UI reacts to
+#### Implementation for different platforms
 
+##### Clean Architecture for iOS
+##### Clean Architecture for Android
+##### Clean Architecture for Web
 
 ## Relates to
 [[Readwise/Articles/Why (And How) You Should Use Feature-Driven Development\|Why (And How) You Should Use Feature-Driven Development]]
