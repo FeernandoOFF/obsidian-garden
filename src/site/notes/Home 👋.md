@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
