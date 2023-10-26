@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -13,8 +13,8 @@
 
 ### Me in 10 seconds
 Hi! I'm Fernando Obregon, a passionate [[Zettelkasten/21st Century creator\|creator]] and  [[Software developer\|Software developer]] . Currently based on [[Zettelkasten/Ireland#Dublin\| Dublin, Ireland]].  I like to share things that I learn and other stuff like:
-- [[Min-max\|Min-max]] your life
-- [[Zettelkasten/productivity\|Productivity]] with Technology
+- [[Zettelkasten/Min-max\|Min-max]] your life
+- [[Zettelkasten/Productivity\|Productivity]] with Technology
 - [[Zettelkasten/Software comparisons\|Software comparisons]]
 - [[Zettelkasten/Digital minimalism\|Digital minimalism]]
 
@@ -37,23 +37,23 @@ My library is where I gather most of my interests and MOCs.
 ##### Recently updated posts
 You can have a look at my latest updated posts
 - [[Zettelkasten/AI MOC\|AI MOC]]
-- [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Activities\|Android Activities]]
 - [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
-- [[Zettelkasten/App architecture\|App architecture]]
-- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
-- [[Zettelkasten/Architecture Patterns for Building UIs\|Architecture Patterns for Building UIs]]
-- [[Zettelkasten/Android Fragments\|Android Fragments]]
 - [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
+- [[Zettelkasten/Android Fragments\|Android Fragments]]
+- [[Zettelkasten/Android Google Assistant Integration\|Android Google Assistant Integration]]
+- [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/Android Gradle\|Android Gradle]]
+- [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
-- [[Zettelkasten/Web development MOC\|Web development MOC]]
 - [[Zettelkasten/Technology\|Technology]]
+- [[Zettelkasten/Web development MOC\|Web development MOC]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 
 { .block-language-dataview}
