@@ -81,7 +81,6 @@ private val viewModel: ItemViewModel by viewModels()
 override fun onCreate(savedInstanceState: Bundle?) {        
 
 super.onCreate(savedInstanceState)
-		viewModel.selectedItem.observe(this, Observer { item ->
 		            // Perform an action with the latest item data.
 		}) 
 	}  
