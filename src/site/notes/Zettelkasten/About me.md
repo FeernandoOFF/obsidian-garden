@@ -6,7 +6,7 @@
 - # About me
   
   
-  ![IMG_6550.jpg|80%](/img/user/Files/IMG_6550.jpg)
+  ![IMG_6550.jpg|50%](/img/user/Files/IMG_6550.jpg)
   
   Hello traveler of the web! 👋 My name is Fernando and I'm delighted to share a bit about myself with you. Well, at some moment of the history  I was born, lets start with that.
   
@@ -28,19 +28,5 @@
 - Gabriel: Thanks for showing me how a friendship can evolve through the time and still feel like brothers.
 - ### Vision
 - [[Zettelkasten/Life plan\|Vision board]]
-- ### People in my life
-  - [[People/Vilja\|Vilja]]
-- [[People/Michelle Guevara\|Michelle Guevara]]
-- [[People/Mario Tejada\|Mario Tejada]]
-- [[People/Jane\|Jane]]
-- [[People/Eddie Martin\|Eddie Martin]]
-- [[People/Diana Mota\|Diana Mota]]
-- [[People/Carol\|Carol]]
-- [[Templates/People Template\|People Template]]
-- [[Zettelkasten/Pedro Mendez\|Pedro Mendez]]
-- [[Zettelkasten/Lais\|Lais]]
-- [[Zettelkasten/Esmeralda\|Esmeralda]]
-
-{ .block-language-dataview}
 - ## Relates to
 - ## References
