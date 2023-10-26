@@ -35,7 +35,8 @@ This note holds most of my interests and different MOCS within those topics:
 ---
 ## 400 - Min-Max / Productivity
 
-[[Zettelkasten/productivity\|productivity]] | [[Min-max\|Min-max]]
+[[Zettelkasten/Productivity vs Min-Max\|Productivity vs Min-Max]]
+[[Zettelkasten/Productivity\|Productivity]] | [[Zettelkasten/Min-max\|Min-max]]
 
 ---
 ## 500 - Languages & Communication
