@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -42,9 +42,9 @@ You can have a look at my latest updated posts
 - [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
 - [[Zettelkasten/Android Fragments\|Android Fragments]]
 - [[Zettelkasten/Android Google Assistant Integration\|Android Google Assistant Integration]]
+- [[Zettelkasten/Android Gradle\|Android Gradle]]
 - [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-- [[Zettelkasten/Android Gradle\|Android Gradle]]
 - [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
 
 { .block-language-dataview}
@@ -53,8 +53,8 @@ You can have a look at my [[Maps of Content\|Maps of Content]].
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 - [[Zettelkasten/Technology\|Technology]]
-- [[Zettelkasten/Web development MOC\|Web development MOC]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/Web development MOC\|Web development MOC]]
 
 { .block-language-dataview}
 ##### Projects
