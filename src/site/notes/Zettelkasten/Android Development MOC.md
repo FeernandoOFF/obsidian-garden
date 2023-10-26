@@ -20,8 +20,8 @@
 - Understanding Android Components
 	- [[Zettelkasten/Android Activities\|Android Activities]]
 	- [[Zettelkasten/Android Fragments\|Android Fragments]]
-	- Services 
-	- Intent
+	- [[Android Intents\|Android Intents]]
+	- [[Zettelkasten/Android Services\|Android Services]]
 	- [[Zettelkasten/Android Manifest\|Android Manifest]] 
 	- Extra
 		- Single-Activity Architecture
@@ -29,7 +29,7 @@
 		- Dependency Injection
 
 ## Building an App
-1. [[Zettelkasten/Clean Architecture\|Clean Architecture]]
+1. [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
 2. Presentation layer
 	1. .[[Zettelkasten/Android XML\|Android XML]]		
 		1. View Binding
