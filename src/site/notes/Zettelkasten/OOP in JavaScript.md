@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/oop-in-java-script/","title":"OOP in JavaScript","tags":["status/todo","status/pre-moc/JavaScript"],"noteIcon":"","created":"2023-10-10T17:46:41.076+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/oop-in-java-script/","title":"OOP in JavaScript","tags":["status/todo","status/pre-moc/JavaScript"],"noteIcon":"","created":"2023-10-10T17:46:41.076+01:00","updated":"2023-10-10T17:47:31.324+01:00"}
 ---
 
 
