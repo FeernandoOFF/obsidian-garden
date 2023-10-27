@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00","updated":"2023-10-25T10:26:41.694+01:00"}
 ---
 
 ![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
@@ -53,8 +53,8 @@ You can have a look at my [[Maps of Content\|Maps of Content]].
 - [[Zettelkasten/AI MOC\|AI MOC]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 - [[Zettelkasten/Technology\|Technology]]
-- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
+- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 
 { .block-language-dataview}
 ##### Projects
