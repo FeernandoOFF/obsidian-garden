@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00","updated":"2023-10-27T17:16:51.156+01:00"}
 ---
 
 # Clean Architecture
@@ -18,6 +18,11 @@ Clean architecture provides guidelines that allows to solve common issues of the
 - Lack of Clarity and Documentation
 
 All of these points are common issues that appear in a software project.
+
+
+> [!quote] Quote
+> It is good to know **clean architecture principles** but it is better to use them wisely otherwise your solution can become overcomplicated with too many unnecessary abstractions and interfaces.
+
 
 ## When to choose Clean Architecture
 First I'd recommend to define the type of software that you're working on. I'd suggest reading [Five worlds post](https://www.joelonsoftware.com/2002/05/06/five-worlds/) 
@@ -40,39 +45,41 @@ First I'd recommend to define the type of software that you're working on. I'd s
 > Google also recommends a CLEAN-ish architecture, you can see their [architecture guide here](https://developer.android.com/topic/architecture#recommended-app-arch)
 
 
+## Benefits
+#### Independent of Framework
+
+When we build a software solution that we want to last long, however, the technology industry is always changing, and all the UI frameworks get new versions every now and then. Clean architecture enables us to switch libraries or frameworks easily, by abstracting them into interfaces and decoupling code.
+
+#### Independence of UI
+
+Independence of the user interface refers to the separation **between the UI** and the **underlying solution or** application. In modern UI development, such as in web apps or mobile applications, **the UI is typically built separately from the core functionality.** However, there may still be **cases where the UI relies on certain business rules** that are implemented within the application itself. By following clean architecture principles, these dependencies can be eliminated or minimized, allowing for a more modular and independent user interface.
+
+#### Testability 
+
+Clean architecture is typically used for projects that aim to **grow over time**. **Testing is crucial** in such projects, especially considering that old projects often **transition to new developers.** Having a reliable source that clearly **defines the business logic and its intended functionality** is essential for ensuring that it continues to work as intended.
+
 ## Core principles
 
 Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core Principles\|Core Principles of a good Architecture patterns]] clean architecture also encourages:
-1. Dependency Inversion
-2. Testability
-3. Independence of UI
-4. Independent of Framework
+#### [[Zettelkasten/Separation of concerns\|Separation of concerns]]
+#### [[Zettelkasten/Single source of truth\|Single source of truth]]
+#### [[Zettelkasten/Unidirectional Data Flow\|Unidirectional Data Flow]]
+
+#### [[Zettelkasten/Single Responsibility\|Single Responsibility]]
+#### [[Zettelkasten/Open-Closed\|Open-Closed]]
+#### [[Zettelkasten/Interface Segregation\|Interface Segregation]]
+
+#### [[Zettelkasten/Dependency Inversion\|Dependency Inversion]]
 
 ## Implementation
 
 ---
 ### Concepts
-#### Presentation layer
-> [See video](https://youtu.be/p9VR8KbmzEE)
+#### [[Zettelkasten/The UI Layer\|The Presentation Layer]]
 
-#### Domain layer
+#### [[Zettelkasten/The Domain layer\|The Domain layer]]
 
-###### Model
-Defines the values that a data model has
-
-###### Repository
-Handles multiple data sources (multiple) and determine which one to use in different moments. i.e API and local database
-
-- Interface  that exposes methods for accessing data from whatever datasource
-###### Use case
-> What in [[Zettelkasten/MVVM\|MVVM]] you do in the viewModel now is a **use case**, allowing you to re-use methods
-> Contains the **Business Logic**
-
-This gets inserted in the viewModel as a dependency
-
-Uses repository (from whichever source is comming) and handles the **business logic inside** it
-
-#### Data layer
+#### [[The Data layer\|The Data layer]]
 ###### Repository implementation
 Implements the repository interface created in the [[Zettelkasten/Clean Architecture#Domain layer\|#Domain layer]] under the 
 
@@ -81,12 +88,6 @@ Implements the repository interface created in the [[Zettelkasten/Clean Architec
 
 
 
-#### Multi module architecture
->No main layers in the root
-
-Divide code by **features** (one or more screens)
-> Each feature has his own layers (Presentation, Domain and data )
-> Do **not** name your folders related to the library, i.e instead of okhttp2 call it API
 
 
 ---
@@ -128,12 +129,17 @@ graph LR
 
 #### Implementation for different platforms
 
-##### Clean Architecture for iOS
-##### Clean Architecture for Android
-##### Clean Architecture for Web
+
+##### Clean Principles In iOS Development
+##### [[Clean Principles for Android Development\|Clean Principles for Android Development]]
+##### Clean Principles for Web Frontend Development
+##### Clean Principles for Web Backend Development
 
 ## Relates to
+
 [[Readwise/Articles/Why (And How) You Should Use Feature-Driven Development\|Why (And How) You Should Use Feature-Driven Development]]
+[[Zettelkasten/SOLID\|SOLID]]
 ## References
 
 [Guide app architecture](https://developer.android.com/topic/architecture)
+[Clean Architecture - Everything you need to know](https://codilime.com/blog/clean-architecture/#:~:text=Not%20many%20are%20aware%20of,solve%20a%20number%20of%20issues.)
