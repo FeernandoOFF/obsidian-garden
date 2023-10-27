@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/library/","title":"Library","tags":["personal","status/done","core/important-ideas"],"noteIcon":"","created":"2023-10-08T13:11:35.828+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/library/","title":"Library","tags":["personal","status/done","core/important-ideas"],"noteIcon":"","created":"2023-10-08T13:11:35.828+01:00","updated":"2023-10-25T10:26:41.722+01:00"}
 ---
 
 
