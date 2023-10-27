@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/artificial-intelligence-moc/","title":"Artificial Intelligence","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-10T14:42:56.761+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/artificial-intelligence-moc/","title":"Artificial Intelligence","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-10T14:42:56.761+01:00","updated":"2023-10-11T10:27:37.736+01:00"}
 ---
 
 
