@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/why-technology-is-important/","title":"Why Technology is important","tags":["status/todo","core/tech"],"noteIcon":"","created":"2023-10-10T15:38:08.385+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/why-technology-is-important/","title":"Why Technology is important","tags":["status/todo","core/tech"],"noteIcon":"","created":"2023-10-10T15:38:08.385+01:00","updated":"2023-10-10T17:44:17.547+01:00"}
 ---
 
 
