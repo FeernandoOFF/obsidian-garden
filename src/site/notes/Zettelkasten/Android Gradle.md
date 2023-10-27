@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-gradle/","title":"Gradle","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-25T17:28:26.387+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-gradle/","title":"Gradle","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-25T17:28:26.387+01:00","updated":"2023-10-25T17:48:34.802+01:00"}
 ---
 
 
