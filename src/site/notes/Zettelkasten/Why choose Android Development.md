@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/why-choose-android-development/","title":"Why choose Android Development","tags":["core/tech/android","status/done"],"noteIcon":"","created":"2023-10-11T10:15:18.146+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/why-choose-android-development/","title":"Why choose Android Development","tags":["core/tech/android","status/done"],"noteIcon":"","created":"2023-10-11T10:15:18.146+01:00","updated":"2023-10-11T16:28:06.108+01:00"}
 ---
 
 
