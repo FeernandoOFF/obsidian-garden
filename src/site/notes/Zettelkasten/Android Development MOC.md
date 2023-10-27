@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00","updated":"2023-10-27T17:17:15.237+01:00"}
 ---
 
 
@@ -23,10 +23,7 @@
 	- [[Android Intents\|Android Intents]]
 	- [[Zettelkasten/Android Services\|Android Services]]
 	- [[Zettelkasten/Android Manifest\|Android Manifest]] 
-	- Extra
-		- Single-Activity Architecture
-		- Context
-		- Dependency Injection
+	- Android Context
 
 ## Building an App
 1. [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
@@ -35,12 +32,13 @@
 		1. View Binding
 		2. [[Data  binding \|Data  binding ]]
 	2. [[Zettelkasten/Jetpack Compose\|Jetpack Compose]]
-	3. Navigation
- 3. Data layer
-	4. [[Android Networking\|Android Networking]]
-	5. [[Zettelkasten/Android Room Database\|Android Room Database]]
- 4. Domain layer
-
+3. Data layer
+	1. [[Android Networking\|Android Networking]]
+	2. [[Zettelkasten/Android Room Database\|Android Room Database]]
+4. Domain layer
+5. Navigation
+6. [[Clean Principles for Android Development\|Clean Principles for Android Development]]
+7. [[Zettelkasten/Dependency Injection\|Dependency Injection]]
 
 ## Publishing the app (Play Store)
 1. Publishing Android App
@@ -58,16 +56,9 @@
 6. Camera and Multimedia 
 7. Build Variants
 9. Push notification
-1. Design patterns
-	1. MVVM
-	2. Observable
-	3. Singleton
-	4. Factory
-	5. Adapter
-	6. Clean
 
 ## Best practices
-
+1. [[Zettelkasten/Android Single-activity application\|Android Single-activity application]]
 1. Testing
 	1. UnitTesting
 	2. [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
