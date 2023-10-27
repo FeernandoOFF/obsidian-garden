@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/productivity-vs-min-max/","title":"Productivity vs Min-Max","tags":["status/todo","core/productivity"],"noteIcon":"","created":"2023-10-25T10:24:03.283+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/productivity-vs-min-max/","title":"Productivity vs Min-Max","tags":["status/todo","core/productivity"],"noteIcon":"","created":"2023-10-25T10:24:03.283+01:00","updated":"2023-10-25T11:11:13.980+01:00"}
 ---
 
 
