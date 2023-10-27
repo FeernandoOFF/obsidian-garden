@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/ai-moc/","title":"AI MOC","tags":["status/todo","status/MOC","core/tech"],"noteIcon":"","created":"2023-10-10T16:05:43.115+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/ai-moc/","title":"AI MOC","tags":["status/todo","status/MOC","core/tech"],"noteIcon":"","created":"2023-10-10T16:05:43.115+01:00","updated":"2023-10-10T16:11:26.791+01:00"}
 ---
 
 
