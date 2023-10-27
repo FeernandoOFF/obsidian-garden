@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-instrumentation-testing/","title":"Android Instrumentation Testing","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-11T13:10:04.657+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-instrumentation-testing/","title":"Android Instrumentation Testing","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-11T13:10:04.657+01:00","updated":"2023-10-11T13:10:16.073+01:00"}
 ---
 
 
