@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/project-portfolio/","tags":["management/project"],"noteIcon":"","created":"2022-12-05T17:06:46.000+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/project-portfolio/","tags":["management/project"],"noteIcon":"","created":"2022-12-05T17:06:46.000+00:00","updated":"2023-10-06T22:15:08.858+01:00"}
 ---
 
 
