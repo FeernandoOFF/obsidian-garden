@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00","updated":"2023-10-27T17:17:15.237+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00","updated":"2023-10-27T17:48:07.228+01:00"}
 ---
 
 
@@ -36,26 +36,34 @@
 	1. [[Android Networking\|Android Networking]]
 	2. [[Zettelkasten/Android Room Database\|Android Room Database]]
 4. Domain layer
+	1. [[Zettelkasten/Dependency Injection\|Dependency Injection]]
 5. Navigation
-6. [[Clean Principles for Android Development\|Clean Principles for Android Development]]
-7. [[Zettelkasten/Dependency Injection\|Dependency Injection]]
+	1. [[Android Navigation with Jetpack Compose\|Android Navigation with Jetpack Compose]]
+	2. [[Android Navigation with Fragments\|Android Navigation with Fragments]]
+6. [[Zettelkasten/Clean Principles for Android Development\|Clean Principles for Android Development]]
 
 ## Publishing the app (Play Store)
 1. Publishing Android App
 2. Google play console
 3. Version control
+	1. Build Variants
 4. In-app update
 5. Google PAY API
 6. [[Zettelkasten/Android Google Assistant Integration\|Android Google Assistant Integration]]
 
-## Advanced
-2. Working with Sensors and Hardware
-3. Data storage
-4. Background processing
-5. Location and Maps
-6. Camera and Multimedia 
-7. Build Variants
-9. Push notification
+
+## Working with Device's APIs
+
+1. Working with Sensors and Hardware
+2. Data storage
+3. Location and Maps
+4. Camera and Multimedia 
+5. Push notification
+6. Permissions
+	1. Manifest permissions
+	2. Runtime permissions
+7. Internationalization
+8. Accessibility 
 
 ## Best practices
 1. [[Zettelkasten/Android Single-activity application\|Android Single-activity application]]
@@ -65,11 +73,6 @@
 2. Performance
 8. Error handeling
 3. Security
-4. Accessibility 
-5. Internationalization
-6. Permissions
-	1. Manifest permissions
-	2. Runtime permissions
 
 ## Guides
 - [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
