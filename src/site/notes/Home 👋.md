@@ -45,7 +45,7 @@ You can have a look at my latest updated posts
 - [[Zettelkasten/Android Gradle\|Android Gradle]]
 - [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-- [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
+- [[Zettelkasten/Android Single-activity application\|Android Single-activity application]]
 
 { .block-language-dataview}
 ##### MOCS
@@ -59,7 +59,6 @@ You can have a look at my [[Maps of Content\|Maps of Content]].
 { .block-language-dataview}
 ##### Projects
 You can also have a look what projects I'm up to 
-- [[Zettelkasten/💼 PROJECT - Portfolio\|💼 PROJECT - Portfolio]]
 
 { .block-language-dataview}
 
