@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00","updated":"2023-10-27T17:16:51.156+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00","updated":"2023-10-31T12:42:25.427+00:00"}
 ---
 
 # Clean Architecture
@@ -79,61 +79,18 @@ Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core P
 
 #### [[Zettelkasten/The Domain layer\|The Domain layer]]
 
-#### [[The Data layer\|The Data layer]]
-###### Repository implementation
-Implements the repository interface created in the [[Zettelkasten/Clean Architecture#Domain layer\|#Domain layer]] under the 
-
-> You can implement interfaces with CTRL + I and CTRL+A to implement all methods of an interface
-###### Data source
-
+#### [[Zettelkasten/The Data layer\|The Data layer]]
 
 
 
 
 ---
-#### Implementation chart
-
-```mermaid
-graph LR
-    C["your_app"] ---> ui 
-    C["your_app"] ---> di
-    C["your_app"] ---> core
-    C --> mainActivity
-    C --> appFeature["feature_X"]
-    
-    appFeature --> dataLayer["data"]
-    appFeature --> domainLayer["domain"]
-    appFeature ---> presentationLayer["presentation"]
-
-	dataLayer--> dataSource 
-	dataLayer--> dataRepositoryIMP["Repository IMPL"] 
- 
-	dataSource --> Database[(Database)]
-	dataSource --> dataDAO["Data Access Object"] 
-
-
-	dataRepositoryIMP---> domainRep
-	dataRepositoryIMP---> dataDAO
-
-	domainLayer ---> domainModel["model"]
-	domainLayer ---> domainRepository["repository"]
-	domainLayer---> domainUseCases["use cases"]
-
-	domainRepository --> domainRep["Repository Interface"]
-	domainUseCases --> domainRep
- 
-	presentationLayer --> ViewModel --> domainRep
-	presentationLayer --> View
-```
-
-
 #### Implementation for different platforms
 
-
-##### Clean Principles In iOS Development
-##### [[Clean Principles for Android Development\|Clean Principles for Android Development]]
-##### Clean Principles for Web Frontend Development
-##### Clean Principles for Web Backend Development
+##### [[Clean Principles In iOS Development\|Clean Principles In iOS Development]]
+##### [[Clean Principles for Web Frontend Development\|Clean Principles for Web Frontend Development]]
+##### [[Zettelkasten/Clean Principles for Android Development\|Clean Principles for Android Development]]
+##### [[Clean Principles for Web Backend Development\|Clean Principles for Web Backend Development]]
 
 ## Relates to
 
