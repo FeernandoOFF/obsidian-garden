@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-ui-layer/","title":"The UI Layer","tags":["core/tech/fundamentals/design-patterns","status/done"],"noteIcon":"","created":"2023-10-27T12:37:56.483+01:00","updated":"2023-10-27T16:37:18.777+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-ui-layer/","title":"The UI Layer","tags":["core/tech/fundamentals/design-patterns","status/done"],"noteIcon":"","created":"2023-10-27T12:37:56.483+01:00","updated":"2023-11-01T11:43:26.749+00:00"}
 ---
 
 
@@ -12,13 +12,14 @@
 The presentation layer's job is to show data on the screen. Whenever the data changes, the UI should update to reflect these changes. It usually does the following tasks:
 
 - Define the **UI State**
-- Receiving data from [[The Data layer\|The Data layer]] and turning it into **UI State** 
+- Receiving data from [[Zettelkasten/The Data layer\|The Data layer]] and turning it into **UI State** 
 - **Expose** that converted data to the UI
 - **Consume UI** state and **send it** to the Data Layer
 
 > [!faq]- Example of UI Layer with ViewModel
 > ![Pasted image 20231027125607.png](/img/user/Files/Pasted%20image%2020231027125607.png)
 
+### Main Components
 The Presentation layer usually made of two things:
 
 > [!tip]- Contents of the Presentation Layer
@@ -60,7 +61,7 @@ You should **never modify the UI stat in the UI** directly. Unless the UI itself
 
 ### Types of logic
 There are two types of logic in an app:
-- **Business logic**: Business logic is the implementation of product requirements. Business logic is usually placed in the [[The Data layer\|The Data layer]] or [[Zettelkasten/The Domain layer\|The Domain layer]]. 
+- **Business logic**: Business logic is the implementation of product requirements. Business logic is usually placed in the [[Zettelkasten/The Data layer\|The Data layer]] or [[Zettelkasten/The Domain layer\|The Domain layer]]. 
  
 - **UI Logic**: Is _how_ to display **changes on the screen**. i.e Display a message, alert or navigate 
 
