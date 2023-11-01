@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-domain-layer/","title":"The Domain layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T15:21:31.597+01:00","updated":"2023-10-27T16:53:31.439+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-domain-layer/","title":"The Domain layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T15:21:31.597+01:00","updated":"2023-10-27T17:57:26.419+01:00"}
 ---
 
 
@@ -74,22 +74,16 @@ But they often are hard to find and tend to have miscellaneous functions without
 By moving it to a useCase justifies their existence and usage.
 
 #### Combine data from Repositories
-This can be often used in ViewModels making them larger and complex and makes harder to 
-1. Test
-2. Reuse
-
-Combine data from multiple repositories
-
+This can be often used in ViewModels making them larger and complex and makes harder to **Test and reuse**, so by moving them into their own useCases allows them to simplify that logic.
 
 #### Allow access to Data Layer?
-Stop domain from bypassing DomainLayer Logic
-Makes testing ViewModel easier
+When adding useCases to your domain layer still having the UI Layer accessing directly some repositories form the Data Layer you may ask yourself;  _"Should I migrate **all of the business data to a use case?**"_
+And the answer to that question may depend on your project and how strict you want your architecture to be, the main benefit of doing so is that It makes **testing ViewModel easier**
 
-Forces useCases **everywhere**
-add usecases only when needed allowing the UI layer to access the Data Layer **as required**.
+While the main drawback is that it forces useCases **everywhere**.
 
-- Strict rules
-- Codebase
+> [!NOTE] Personal recommendation 
+> Add usecases only when needed allowing the UI layer to access the Data Layer **as required**.
 
 ## Relates to
 ## References
