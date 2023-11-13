@@ -1,18 +1,29 @@
 body {
+  --heading-style:"Peachi", serif !important;
+  --h1-font: --heading-style;
+  --h2-font: --heading-style;
+  --h3-font: --heading-style;
+  --h4-font: --heading-style;
+  --h5-font: --heading-style;
+  --h6-font: --heading-style;
+  --code-normal: #7243de;
+  --code-background: #343242;
   font-family: "Geist", sans-serif;
   background-color: #1C1828;
 }
 
-h1,h2,h3,h4,h5,h6 {
-  font-family: "Peachi", serif;
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 
-h1 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+p {
+  margin-bottom: 1.8rem;
 }
-
-h2,h3 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+code {
+  margin: 1.5rem 0px !important;
 }
