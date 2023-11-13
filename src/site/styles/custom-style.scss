@@ -1,13 +1,18 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  font-family: "Geist", sans-serif;
+  background-color: #1C1828;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Peachi", serif;
+}
+
+h1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2,h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
