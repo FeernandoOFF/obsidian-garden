@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00","updated":"2023-10-31T12:42:25.427+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","noteIcon":"","created":"2023-10-11T10:29:59.521+01:00","updated":"2023-11-14T15:04:12.344+00:00"}
 ---
 
 # Clean Architecture
@@ -74,6 +74,7 @@ Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core P
 ## Implementation
 
 ---
+
 ### Concepts
 #### [[Zettelkasten/The UI Layer\|The Presentation Layer]]
 
@@ -82,15 +83,15 @@ Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core P
 #### [[Zettelkasten/The Data layer\|The Data layer]]
 
 
-
-
 ---
 #### Implementation for different platforms
 
 ##### [[Clean Principles In iOS Development\|Clean Principles In iOS Development]]
-##### [[Clean Principles for Web Frontend Development\|Clean Principles for Web Frontend Development]]
-##### [[Zettelkasten/Clean Principles for Android Development\|Clean Principles for Android Development]]
+##### [[Zettelkasten/How to structure a Web project\|How to structure a Web project]]
+##### [[Zettelkasten/How to structure an Android Project\|How to structure an Android Project]]
 ##### [[Clean Principles for Web Backend Development\|Clean Principles for Web Backend Development]]
+
+[[Principles for \|Principles for ]]
 
 ## Relates to
 
