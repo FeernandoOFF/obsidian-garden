@@ -12,7 +12,7 @@
 ## About me
 
 ### Me in 10 seconds
-Hi! I'm Fernando Obregon, a passionate [[Zettelkasten/21st Century creator\|creator]] and  [[Software developer\|Software developer]] . Currently based on [[Zettelkasten/Ireland#Dublin\| Dublin, Ireland]].  I like to share things that I learn and other stuff like:
+Hi! I'm Fernando Obregon, a passionate [[Zettelkasten/21st Century creator\|creator]] and  [[Zettelkasten/Software developer\|Software developer]] . Currently based on [[Zettelkasten/Ireland#Dublin\| Dublin, Ireland]].  I like to share things that I learn and other stuff like:
 - [[Zettelkasten/Min-max\|Min-max]] your life
 - [[Zettelkasten/Productivity\|Productivity]] with Technology
 - [[Zettelkasten/Software comparisons\|Software comparisons]]
@@ -36,38 +36,35 @@ My library is where I gather most of my interests and MOCs.
 - [[Zettelkasten/Library\|Library]]
 ##### Recently updated posts
 You can have a look at my latest updated posts
-- [[Zettelkasten/AI MOC\|AI MOC]]
-- [[Zettelkasten/Android Activities\|Android Activities]]
-- [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
-- [[Zettelkasten/Android Adding app icon\|Android Adding app icon]]
-- [[Zettelkasten/Android Fragments\|Android Fragments]]
-- [[Zettelkasten/Android Google Assistant Integration\|Android Google Assistant Integration]]
-- [[Zettelkasten/Android Gradle\|Android Gradle]]
-- [[Zettelkasten/About me\|About me]]
-- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-- [[Zettelkasten/Android Single-activity application\|Android Single-activity application]]
-
-{ .block-language-dataview}
+```dataview
+LIST
+FROM "Zettelkasten"
+WHERE file.frontmatter.dg-publish = true
+LIMIT 10
+SORT file.mday
+```
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
-- [[Zettelkasten/AI MOC\|AI MOC]]
-- [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
-- [[Zettelkasten/Technology\|Technology]]
-- [[Zettelkasten/Web development MOC\|Web development MOC]]
-- [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-
-{ .block-language-dataview}
+```dataview
+LIST
+FROM #status/MOC 
+LIMIT 10
+SORT file.mday
+```
 ##### Projects
 You can also have a look what projects I'm up to 
-
-{ .block-language-dataview}
+```dataview
+LIST
+FROM #management/project 
+WHERE file.frontmatter.dg-publish = true
+LIMIT 10
+SORT file.mday
+```
 
 ### Currently reading
-- [[Readwise/Books/How to Talk to Anyone\|How to Talk to Anyone]]
-- [[Readwise/Books/Cómo Hacer Que Te Pasen Cosas Buenas\|Cómo Hacer Que Te Pasen Cosas Buenas]]
-- [[Readwise/Books/How to Win Friends and Influence People 2\|How to Win Friends and Influence People 2]]
-- [[Readwise/Books/How to Win Friends and Influence People\|How to Win Friends and Influence People]]
-- [[Readwise/Books/La Liberación Del Alma\|La Liberación Del Alma]]
-- [[Readwise/Books/Holy Sh!t We're Alive\|Holy Sh!t We're Alive]]
-
-{ .block-language-dataview}
+```dataview
+LIST
+FROM #external/books 
+LIMIT 10
+SORT file.mday
+```
