@@ -39,7 +39,7 @@ As many other tech-related professions you'll have the opportunity to be a **fre
 The web allows you to access your app to **all platforms** regarding their OS and spects, and with evolving technologies like More Browser APIs, Responsive and PWAs designs you can build a pretty feature-complete app with just web technologies
 
 #### Super multi-platform
-Besides the ability to run a web app anywhere you can also create **native apps** with [[React Native\|React Native]] that enables you to create a native app. See [[Multiplatform Development\|Multiplatform Development]] for more info.
+Besides the ability to run a web app anywhere you can also create **native apps** with [[Zettelkasten/React Native\|React Native]] that enables you to create a native app. See [[Multiplatform Development\|Multiplatform Development]] for more info.
 
 
 ---
