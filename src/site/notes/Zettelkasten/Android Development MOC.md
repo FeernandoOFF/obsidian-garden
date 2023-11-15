@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00","updated":"2023-10-27T17:48:07.228+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00","updated":"2023-11-07T17:32:34.098+00:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 5. Navigation
 	1. [[Android Navigation with Jetpack Compose\|Android Navigation with Jetpack Compose]]
 	2. [[Android Navigation with Fragments\|Android Navigation with Fragments]]
-6. [[Zettelkasten/Clean Principles for Android Development\|Clean Principles for Android Development]]
+6. [[Zettelkasten/How to structure an Android Project\|How to structure an Android Project]]
 
 ## Publishing the app (Play Store)
 1. Publishing Android App
