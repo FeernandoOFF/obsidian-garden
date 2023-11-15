@@ -89,7 +89,7 @@ So instead of a full list of architecture patterns I will give you a list of arc
 
 
 > [!tip]- See App architecture
- ![Pasted image 20231026145233.png](/img/user/Files/Pasted%20image%2020231026145233.png)
+ ![Pasted image 20231026145233.png|{width=70%}](/img/user/Files/Pasted%20image%2020231026145233.png)
 
 #### [[The UI Layer \|The UI Layer ]]
 
