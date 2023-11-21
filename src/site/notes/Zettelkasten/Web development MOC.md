@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/web-development-moc/","title":"Web development","tags":["core/tech/web-development","status/todo","status/MOC"],"noteIcon":"","created":"2022-08-24T14:18:11.000+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/web-development-moc/","title":"Web development","tags":["core/tech/web-development","status/todo","status/MOC"],"created":"2022-08-24T14:18:11.000+01:00"}
 ---
 
 
