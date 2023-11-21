@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/ur-ls/","title":"URLs","tags":["core/tech/web-development"],"noteIcon":"","created":"2023-10-10T17:09:33.024+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/ur-ls/","title":"URLs","tags":["core/tech/web-development"],"created":"2023-10-10T17:09:33.024+01:00"}
 ---
 
 
