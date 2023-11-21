@@ -32,8 +32,7 @@
 <link href="{{style}}" rel="stylesheet">
 {%- endfor -%}
 
-{# {% favicons './src/site/favicon.svg', appleIconBgColor='#123' %} #}
-<link rel="icon" type="image/png" href="/img/default-note-icon.png">
+{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
 
 {% if metatags %}
     {% for name, content in metatags %}
