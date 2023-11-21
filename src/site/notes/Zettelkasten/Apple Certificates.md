@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/apple-certificates/","title":"Apple Certificates","tags":["status/todo","core/tech/ios"],"noteIcon":"","created":"2023-11-13T17:08:28.523+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/apple-certificates/","title":"Apple Certificates","tags":["status/todo","core/tech/ios"],"created":"2023-11-13T17:08:28.523+00:00"}
 ---
 
 
@@ -54,5 +54,5 @@ classDiagram
 
 
 ## Relates to
-- [[Readwise/Articles/The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows\|The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows]]
+- [[The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows\|The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows]]
 ## References
