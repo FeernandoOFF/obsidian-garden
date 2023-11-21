@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/history-of-javascript/","title":"History of Javascript","tags":["status/todo","core/tech/languages/javascript"],"noteIcon":"","created":"2023-10-10T17:25:03.972+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/history-of-javascript/","title":"History of Javascript","tags":["status/todo","core/tech/languages/javascript"],"created":"2023-10-10T17:25:03.972+01:00"}
 ---
 
 
