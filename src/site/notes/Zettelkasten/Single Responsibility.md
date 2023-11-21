@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/single-responsibility/","title":"Single Responsibility","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T11:48:57.677+01:00","updated":"2023-10-27T12:16:54.210+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/single-responsibility/","title":"Single Responsibility","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T11:48:57.677+01:00"}
 ---
 
 
