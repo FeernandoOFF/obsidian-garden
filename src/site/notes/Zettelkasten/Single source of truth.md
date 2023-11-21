@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/single-source-of-truth/","title":"Single source of truth","tags":["core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:42:54.946+01:00","updated":"2023-10-27T11:43:30.825+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/single-source-of-truth/","title":"Single source of truth","tags":["core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:42:54.946+01:00"}
 ---
 
 
