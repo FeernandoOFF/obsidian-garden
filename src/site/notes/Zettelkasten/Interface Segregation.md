@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/interface-segregation/","title":"Interface Segregation","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T12:05:28.822+01:00","updated":"2023-10-27T12:12:16.802+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/interface-segregation/","title":"Interface Segregation","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T12:05:28.822+01:00"}
 ---
 
 
