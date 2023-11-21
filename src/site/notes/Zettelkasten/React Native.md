@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/react-native/","title":"React Native","tags":["status/todo","core/tech/languages/javascript"],"noteIcon":"","created":"2023-11-09T10:32:34.350+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/react-native/","title":"React Native","tags":["status/todo","core/tech/languages/javascript"],"created":"2023-11-09T10:32:34.350+00:00"}
 ---
 
 
