@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/world-wide-web/","title":"Web","tags":["status/todo","core/tech/web-development"],"noteIcon":"","created":"2023-10-10T12:57:24.115+01:00","updated":"2023-10-10T17:22:21.384+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/world-wide-web/","title":"Web","tags":["status/todo","core/tech/web-development"],"noteIcon":"","created":"2023-10-10T12:57:24.115+01:00"}
 ---
 
 
