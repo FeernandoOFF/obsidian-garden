@@ -1,6 +1,21 @@
-@import url('/img/user/fonts/peachi/peachi-medium.otf');
-@import url('/img/user/fonts/peachi/peachi-bold.otf');
-@import url('/img/user/fonts/rumiko/Rumiko-Regular.otf');
+@font-face {
+  font-family: 'Peachi';
+  src: url('/img/user/fonts/peachi/peachi-medium.otf') format('opentype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Peachi';
+  src: url('/img/user/fonts/peachi/peachi-bold.otf') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Rumiko';
+  src: url('/img/user/fonts/rumiko/Rumiko-Regular.otf') format('opentype');
+  font-weight: normal;
+}
+
 
 body {
   // Fonts
