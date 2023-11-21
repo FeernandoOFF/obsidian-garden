@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/digital-garden/","title":"Digital garden","tags":["status/todo"],"noteIcon":"","created":"2023-01-21T02:13:53.000+00:00","updated":"2023-10-06T17:49:25.023+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/digital-garden/","title":"Digital garden","tags":["status/todo"],"noteIcon":"","created":"2023-01-21T02:13:53.000+00:00"}
 ---
 
 
