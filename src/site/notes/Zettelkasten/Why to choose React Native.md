@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/why-to-choose-react-native/","title":"Why to choose React Native","tags":["status/todo","core/tech/languages/javascript"],"noteIcon":"","created":"2023-11-09T11:04:55.812+00:00","updated":"2023-11-09T11:31:10.954+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/why-to-choose-react-native/","title":"Why to choose React Native","tags":["status/todo","core/tech/languages/javascript"],"noteIcon":"","created":"2023-11-09T11:04:55.812+00:00"}
 ---
 
 
