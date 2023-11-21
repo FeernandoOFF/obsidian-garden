@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/perpetual-license/","title":"JetBrains","tags":["status/todo"],"noteIcon":"","created":"2023-10-25T11:00:39.925+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/perpetual-license/","title":"JetBrains","tags":["status/todo"],"created":"2023-10-25T11:00:39.925+01:00"}
 ---
 
 
