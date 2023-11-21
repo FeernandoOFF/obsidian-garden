@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"noteIcon":"","created":"2023-10-11T10:10:00.838+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-development-moc/","title":"Android Development MOC","tags":["status/todo","status/MOC"],"created":"2023-10-11T10:10:00.838+01:00"}
 ---
 
 
