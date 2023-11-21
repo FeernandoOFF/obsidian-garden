@@ -20,12 +20,17 @@ body {
 }
 
 
-.markdown-rendered h1,
-.markdown-rendered h2,
-.markdown-rendered h3,
-.markdown-rendered h4  {
-  margin-top: 2.5rem;
-  margin-bottom: 1.25rem;
+.markdown-rendered{
+  h1,h2,h3,h4 {
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+  }
+  img {
+    border-radius: 1rem;
+  }
+  .callout {
+    padding: 1rem 0.5rem;
+  }
 }
 
 p {
@@ -33,4 +38,16 @@ p {
 }
 code {
   margin: 1.5rem 0px !important;
+}
+
+.search-box {
+  padding: 0px;
+  #term {
+    padding: 1.8rem 1rem;
+    border: none;
+    border-bottom: 1px var(--text-normal) solid;
+    border-radius: 0.5rem 0.5rem 0 0;
+    font-size: 1rem;
+    outline: none !important;
+  }
 }
