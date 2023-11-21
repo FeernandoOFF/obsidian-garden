@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-google-assistant-integration/","title":"Android Google Assistant Integration","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-20T17:05:25.460+01:00","updated":"2023-10-20T17:57:51.482+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-google-assistant-integration/","title":"Android Google Assistant Integration","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-20T17:05:25.460+01:00"}
 ---
 
 
