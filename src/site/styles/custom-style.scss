@@ -1,12 +1,12 @@
 body {
   // Fonts
   font-family: "Geist", sans-serif;
-  --h1-font: "Peachi",'Geist',serif;
-  --h2-font: "Peachi",'Geist',serif;
-  --h3-font: "Peachi",'Geist',serif;
-  --h4-font: "Peachi",'Geist',serif;
-  --h5-font: "Peachi",'Geist',serif;
-  --h6-font: "Peachi",'Geist',serif;
+  --h1-font: 'Geist',sans-serif;
+  --h2-font: 'Geist',sans-serif;
+  --h3-font: 'Geist',sans-serif;
+  --h4-font: 'Geist',sans-serif;
+  --h5-font: 'Geist',sans-serif;
+  --h6-font: 'Geist',sans-serif;
   --h1-weight: 500;
   --h2-weight: 500;
   --h3-weight: 500;
@@ -23,7 +23,7 @@ body {
 .markdown-rendered h1,
 .markdown-rendered h2,
 .markdown-rendered h3,
-.markdown-rendered  {
+.markdown-rendered h4  {
   margin-top: 2.5rem;
   margin-bottom: 1.25rem;
 }
