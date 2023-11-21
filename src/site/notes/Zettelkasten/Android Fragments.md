@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-fragments/","title":"Fragments","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-11T17:40:12.580+01:00","updated":"2023-10-18T14:37:01.102+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-fragments/","title":"Fragments","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-11T17:40:12.580+01:00"}
 ---
 
 
