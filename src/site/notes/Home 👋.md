@@ -64,8 +64,8 @@ You can also have a look what projects I'm up to
 { .block-language-dataview}
 
 ### Currently reading
-- [[Readwise/Books/Cómo Hacer Que Te Pasen Cosas Buenas\|Cómo Hacer Que Te Pasen Cosas Buenas]]
 - [[Readwise/Books/How to Talk to Anyone\|How to Talk to Anyone]]
+- [[Readwise/Books/Cómo Hacer Que Te Pasen Cosas Buenas\|Cómo Hacer Que Te Pasen Cosas Buenas]]
 - [[Readwise/Books/How to Win Friends and Influence People 2\|How to Win Friends and Influence People 2]]
 - [[Readwise/Books/How to Win Friends and Influence People\|How to Win Friends and Influence People]]
 - [[Readwise/Books/La Liberación Del Alma\|La Liberación Del Alma]]
