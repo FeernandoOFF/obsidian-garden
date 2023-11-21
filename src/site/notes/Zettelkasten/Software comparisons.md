@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/software-comparisons/","title":"Software comparisons","tags":["status/todo","core/tech"],"noteIcon":"","created":"2023-10-08T14:34:06.039+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/software-comparisons/","title":"Software comparisons","tags":["status/todo","core/tech"],"created":"2023-10-08T14:34:06.039+01:00"}
 ---
 
 
