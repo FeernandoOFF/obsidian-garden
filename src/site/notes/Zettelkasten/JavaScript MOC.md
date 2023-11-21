@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/java-script-moc/","title":"JavaScript | Map Of Content","tags":["core/tech/languages/javascript","status/todo"],"noteIcon":"","created":"2022-10-28T13:25:28.256+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/java-script-moc/","title":"JavaScript | Map Of Content","tags":["core/tech/languages/javascript","status/todo"],"created":"2022-10-28T13:25:28.256+01:00"}
 ---
 
 
