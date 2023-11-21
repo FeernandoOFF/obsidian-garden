@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-activities/","title":"Activities","tags":["core/tech/android","status/done"],"noteIcon":"","created":"2023-10-11T16:29:38.628+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-activities/","title":"Activities","tags":["core/tech/android","status/done"],"created":"2023-10-11T16:29:38.628+01:00"}
 ---
 
 
