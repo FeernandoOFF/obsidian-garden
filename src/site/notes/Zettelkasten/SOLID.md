@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/solid/","title":"SOLID","tags":["core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-01-06T21:31:19.000+00:00","updated":"2023-10-27T12:19:27.751+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/solid/","title":"SOLID","tags":["core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-01-06T21:31:19.000+00:00"}
 ---
 
 
