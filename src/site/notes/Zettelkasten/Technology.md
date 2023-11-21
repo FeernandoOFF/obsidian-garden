@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/technology/","title":"Tech | Map Of Content","tags":["status/MOC"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00","updated":"2023-10-13T09:38:25.712+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/technology/","title":"Tech | Map Of Content","tags":["status/MOC"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
 
