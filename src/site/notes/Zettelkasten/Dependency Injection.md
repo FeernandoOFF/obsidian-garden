@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/dependency-injection/","title":"Dependency Injection","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-27T17:17:15.119+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/dependency-injection/","title":"Dependency Injection","tags":["status/todo","core/tech/android"],"created":"2023-10-27T17:17:15.119+01:00"}
 ---
 
 
