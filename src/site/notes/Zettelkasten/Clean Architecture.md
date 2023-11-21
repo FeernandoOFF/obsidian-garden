@@ -95,7 +95,7 @@ Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core P
 
 ## Relates to
 
-[[Why (And How) You Should Use Feature-Driven Development\|Why (And How) You Should Use Feature-Driven Development]]
+[[Readwise/Articles/Why (And How) You Should Use Feature-Driven Development\|Why (And How) You Should Use Feature-Driven Development]]
 [[Zettelkasten/SOLID\|SOLID]]
 ## References
 
