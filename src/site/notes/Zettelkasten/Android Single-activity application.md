@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/android-single-activity-application/","title":"Android Single-activity application","tags":["status/todo","core/tech/android"],"noteIcon":"","created":"2023-10-27T17:10:41.306+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/android-single-activity-application/","title":"Android Single-activity application","tags":["status/todo","core/tech/android"],"created":"2023-10-27T17:10:41.306+01:00"}
 ---
 
 
