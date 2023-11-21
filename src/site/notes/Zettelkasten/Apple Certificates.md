@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/apple-certificates/","title":"Apple Certificates","tags":["status/todo","core/tech/ios"],"noteIcon":"","created":"2023-11-13T17:08:28.523+00:00","updated":"2023-11-14T12:46:47.945+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/apple-certificates/","title":"Apple Certificates","tags":["status/todo","core/tech/ios"],"noteIcon":"","created":"2023-11-13T17:08:28.523+00:00"}
 ---
 
 
