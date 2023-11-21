@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/separation-of-concerns/","title":"Separation of concerns","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:40:46.764+01:00","updated":"2023-10-27T11:41:49.870+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/separation-of-concerns/","title":"Separation of concerns","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:40:46.764+01:00"}
 ---
 
 
