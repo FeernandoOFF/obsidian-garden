@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["personal","status/done","core/important-ideas"],"noteIcon":"","created":"2023-10-06T22:06:27.367+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/about-me/","title":"About me","tags":["personal","status/done","core/important-ideas"],"created":"2023-10-06T22:06:27.367+01:00"}
 ---
 
 
