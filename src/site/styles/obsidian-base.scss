@@ -608,13 +608,13 @@ body {
   }
 
   body {
-    --font-default: 'Geist', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-default: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     ;
     --font-monospace-default: Menlo, SFMono-Regular, Consolas, "Roboto Mono", 'Source Code Pro', monospace;
     --font-interface-override: '??';
     --font-interface-theme: '??';
     --font-interface: var(--font-interface-override), var(--font-interface-theme), var(--default-font, '??'), var(--font-default);
-    --font-text-override: 'Geist';
+    --font-text-override: '??';
     --font-text-theme: '??';
     --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
     --font-monospace-override: '??';
