@@ -7,6 +7,7 @@
 
 The procedure I follow when cleaning or setting up a new Mac
 
+---
 ## General setup
 ### System Settings
 
@@ -57,6 +58,9 @@ brew install koekeishiya/formulae/yabaiw
 yabai --start-service
 ln -s ~/dotfiles/yabai/yabairc ~/.config/yabai/yabairc
 ```
+
+
+---
 
 ## Development Setup
 
@@ -125,6 +129,7 @@ The main plugins I use are:
 -  [[Zettelkasten/Ranger (CLI)\|Ranger (CLI)]] 
 - [[Zettelkasten/Tmux\|Tmux]]
 
+---
 ### Code editors
 
 > [!NOTE] Keybindings
@@ -154,6 +159,7 @@ When developing [[Zettelkasten/React Native\|React Native]] applications it seem
 brew install xcodesorg/made/xcodes
 ```
 
+---
 ## References
 
 ## Relates to
