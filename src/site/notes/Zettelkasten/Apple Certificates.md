@@ -54,5 +54,5 @@ classDiagram
 
 
 ## Relates to
-- [[The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows\|The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows]]
+- [[Readwise/Articles/The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows\|The ‘What’ and ‘Why’ of iOS Signing Certificates and Provisioning Profiles — And How to Manage Them as Your Team Grows]]
 ## References
