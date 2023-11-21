@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/my-keybindings/","title":"My Keybindings","tags":["status/todo"],"noteIcon":"","created":"2023-11-21T12:11:18.926+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/my-keybindings/","title":"My Keybindings","tags":["status/todo"],"created":"2023-11-21T12:11:18.926+00:00"}
 ---
 
 
