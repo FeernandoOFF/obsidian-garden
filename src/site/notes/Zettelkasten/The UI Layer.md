@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-ui-layer/","title":"The UI Layer","tags":["core/tech/fundamentals/design-patterns","status/done"],"noteIcon":"","created":"2023-10-27T12:37:56.483+01:00","updated":"2023-11-01T11:43:26.749+00:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-ui-layer/","title":"The UI Layer","tags":["core/tech/fundamentals/design-patterns","status/done"],"noteIcon":"","created":"2023-10-27T12:37:56.483+01:00"}
 ---
 
 
