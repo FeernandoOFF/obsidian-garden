@@ -42,39 +42,38 @@
 
 #### Text Editors / IDEs
 
-| Action                        | Keybinding            | JetBrainsIDEs | XCode | Obsidian | VSCode | Vim |
-| ----------------------------- | --------------------- | ------------- | ----- | -------- | ------ | --- |
-| **APP MENU**                  |                       |               |       |          |        |     |
-| Toggle right panel            | `⌘ + ⇧ + R`           | ✅            | ✅    | ✅       |        |     |
-| Toggle Left Panel  (TO-Check) | `⌘ + ⇧ + L`           | ✅            | ✅    | ✅       |        |     |
-| Toggle  Bottom Panel          | `⌘ + ⇧ + B`           |               |       |          |        |     |
-| Toggle  Terminal              | `⌘ + ~`               | ✅            | ⏹️    | ⏹️       |        |     |
-| Search File                   | `⌘ + P`               | ✅            | ✅    | ✅       |        |     |
-| Open  Command/Editor search   | `⌘ +  ⇧ + P`          | ✅            |       | ✅       |        |     |
-| Find in file                  | `⌘ + f`               | ✅            | ✅    | ✅       |        |     |
-| Find in codebase              | `⌘ - ⇧ + F `          | ✅            | ✅    | ✅       |        |     |
-| Run App                       | `⌘ - R `              | ✅            |       | ⏹️       |        |     |
-| **FILE MENU**                 |                       |               |       |          |        |     |
-| Create new File               | `⌘ + n`               | ✅            |       | ✅       |        |     |
-| Close file                    | `⌘ + w`               | ✅            |       | ✅       |        |     |
-| Next tab                      | `⌘ - ⇧ + }`           | ✅            | ✅    | ✅       |        |     |
-| Previous file                 | `⌘ - ⇧ + {`           | ✅            | ✅    | ✅       |        |     |
-| Switch recently used          | `CTRL + Tab `         | ✅            |       | ✅       |        |     |
-| **Editting**                  |                       |               |       |          |        |     |
-| Toggle Fold Block             | `⌘ - .`               | ✅            |       | ✅       |        |     |
-| Fold All                      | `⌘ - ⇧ + .`           | ✅            |       | ✅       |        |     |
-| Unfold All                    | `⌘ - ⇧ + ,`           | ✅            |       | ✅       |        |     |
-| Rename variable / File        | `F2`                  | ✅            |       |          |        |     |
-| Move Line                     | `⎇ + up/down`         | ✅            |       |          |        |     |
-| **Split Panels**              |                       |               |       |          |        |     |
-| Split to right                | `ctrl + w`            |               |       |          |        |     |
-| Focus to right                | `ctrl + l`            |               |       |          |        |     |
-| Focus to left                  | `ctrl + h`                      |               |       |          |        |     |
-| Close split                   | `⌘ + ⇧ + w`              |               |       |          |        |     |
-| **Multiple cursors**          |                       |               |       |          |        |     |
-| Next Selected                 |                       |               |       |          |        |     |
-| Insert cursor below/above     | `ctrl + ⎇  + up/down` |               |       |          |        |     |
-
+| Action                        | Keybinding         | JetBrainsIDEs | XCode | Obsidian | VSCode | Nvim |
+| ----------------------------- | ------------------ | ------------- | ----- | -------- | ------ | ---- |
+| **APP MENU**                  |                    |               |       |          |        |      |
+| Toggle right panel            | `⌘ + ⇧ + R`        | ✅            | ✅    | ✅       |        |      |
+| Toggle Left Panel  (TO-Check) | `⌘ + ⇧ + L`        | ✅            | ✅    | ✅       |        |      |
+| Toggle  Bottom Panel          | `⌘ + ⇧ + B`        |               |       |          |        |      |
+| Toggle  Terminal              | `⌘ + ~`            | ✅            | ⏹️    | ⏹️       |        |      |
+| Search File                   | `⌘ + P`            | ✅            | ✅    | ✅       |        |      |
+| Open  Command/Editor search   | `⌘ +  ⇧ + P`       | ✅            |       | ✅       |        |      |
+| Find in file                  | `⌘ + f`            | ✅            | ✅    | ✅       |        |      |
+| Find in codebase              | `⌘ - ⇧ + F `       | ✅            | ✅    | ✅       |        |      |
+| Run App                       | `⌘ - R `           | ✅            |       | ⏹️       |        |      |
+| **FILE MENU**                 |                    |               |       |          |        |      |
+| Create new File               | `⌘ + n`            | ✅            |       | ✅       |        |      |
+| Close file                    | `⌘ + w`            | ✅            |       | ✅       |        |      |
+| Next tab                      | `⌘ - ⇧ + }`        | ✅            | ✅    | ✅       |        |      |
+| Previous file                 | `⌘ - ⇧ + {`        | ✅            | ✅    | ✅       |        |      |
+| Switch recently used          | `CTRL + Tab `      | ✅            |       | ✅       |        |      |
+| **Editting**                  |                    |               |       |          |        |      |
+| Toggle Fold Block             | `⌘ - .`            | ✅            |       | ✅       |        |      |
+| Fold All                      | `⌘ - ⇧ + .`        | ✅            |       | ✅       |        |      |
+| Unfold All                    | `⌘ - ⇧ + ,`        | ✅            |       | ✅       |        |      |
+| Rename variable / File        | `F2`               | ✅            |       |          |        |      |
+| Move Line                     | `⎇ + up/down`      | ✅            |       |          |        |      |
+| Duplicate line                | `⌤ +⎇ + ↓`         | ✅            |       |          |        |      |
+| **Split Panels**              |                    |               |       |          |        |      |
+| Split to right                | `⌤ + w`            | ✅            |       |          |        |      |
+| Focus to right                | `⌤ + l`            |               |       |          |        |      |
+| Focus to left                 | `⌤ + h`            |               |       |          |        |      |
+| **Multiple cursors**          |                    |               |       |          |        |      |
+| Next Selected                 |                    |               |       |          |        |      |
+| Insert cursor below/above     | `⌘ + ⎇  + up/down` | ✅              |       |          |        |      |
 
 
 ## Relates to
