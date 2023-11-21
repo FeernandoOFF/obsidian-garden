@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-domain-layer/","title":"The Domain layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T15:21:31.597+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-domain-layer/","title":"The Domain layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"created":"2023-10-27T15:21:31.597+01:00"}
 ---
 
 
