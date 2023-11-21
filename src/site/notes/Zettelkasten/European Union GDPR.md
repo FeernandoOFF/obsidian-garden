@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/european-union-gdpr/","title":"European Union GDPR","tags":["status/todo"],"noteIcon":"","created":"2023-10-06T12:32:03.700+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/european-union-gdpr/","title":"European Union GDPR","tags":["status/todo"],"created":"2023-10-06T12:32:03.700+01:00"}
 ---
 
 
