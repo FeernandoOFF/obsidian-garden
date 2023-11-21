@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/javascript-ecosystem/","title":"Javascript Ecosystem","tags":["status/todo"],"noteIcon":"","created":"2023-10-10T17:48:35.847+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/javascript-ecosystem/","title":"Javascript Ecosystem","tags":["status/todo"],"created":"2023-10-10T17:48:35.847+01:00"}
 ---
 
 
