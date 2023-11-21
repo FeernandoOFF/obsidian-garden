@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/internet/","title":"internet","tags":["status/todo","core/tech/web-development"],"noteIcon":"","created":"2023-10-10T12:58:33.513+01:00","updated":"2023-10-10T16:35:21.650+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/internet/","title":"internet","tags":["status/todo","core/tech/web-development"],"noteIcon":"","created":"2023-10-10T12:58:33.513+01:00"}
 ---
 
 
