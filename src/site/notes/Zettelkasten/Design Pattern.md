@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/design-pattern/","title":"Design Pattern","tags":["core/tech/fundamentals/design-patterns","status/todo"],"noteIcon":"","created":"2022-10-24T23:09:55.000+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/design-pattern/","title":"Design Pattern","tags":["core/tech/fundamentals/design-patterns","status/todo"],"created":"2022-10-24T23:09:55.000+01:00"}
 ---
 
 
