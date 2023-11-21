@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/dependency-inversion/","title":"Dependency Inversion","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T11:46:30.012+01:00","updated":"2023-10-27T14:15:46.391+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/dependency-inversion/","title":"Dependency Inversion","tags":["status/todo","core/tech/fundamentals/principles"],"noteIcon":"","created":"2023-10-27T11:46:30.012+01:00"}
 ---
 
 
