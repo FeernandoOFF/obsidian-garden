@@ -8,6 +8,7 @@
 
 Clean architecture is a **set of designs principles** that allow  a separation of software into layers, the main idea is that dependencies should **go from outer layers to inner layers**.
 
+---
 ## What does it solves?
 
 Clean architecture provides guidelines that allows to solve common issues of the software industry, like:
@@ -24,6 +25,8 @@ All of these points are common issues that appear in a software project.
 > It is good to know **clean architecture principles** but it is better to use them wisely otherwise your solution can become overcomplicated with too many unnecessary abstractions and interfaces.
 
 
+---
+
 ## When to choose Clean Architecture
 First I'd recommend to define the type of software that you're working on. I'd suggest reading [Five worlds post](https://www.joelonsoftware.com/2002/05/06/five-worlds/) 
 
@@ -33,6 +36,8 @@ First I'd recommend to define the type of software that you're working on. I'd s
 4. **Testability**: Clean architecture promotes testability by enabling unit test of business logic.
 5. **Cross-platform Development**: Clean Architecture facilitates cross-platform development by abstracting the core business logic from platform-specific details. This allows tho separate interfaces and share the core business logic.
 6. **Full-Stack**: If you or your team moves between platforms, clean architecture can allow you to be productive in new projects and start developing without knowing about the specific framework implementation.
+
+---
 
 ## When to Not choose Clean Architecture
 
@@ -44,6 +49,8 @@ First I'd recommend to define the type of software that you're working on. I'd s
 > [!tip] Your app doesn't have to have all of this layers
 > Google also recommends a CLEAN-ish architecture, you can see their [architecture guide here](https://developer.android.com/topic/architecture#recommended-app-arch)
 
+
+---
 
 ## Benefits
 #### Independent of Framework
@@ -57,6 +64,8 @@ Independence of the user interface refers to the separation **between the UI** a
 #### Testability 
 
 Clean architecture is typically used for projects that aim to **grow over time**. **Testing is crucial** in such projects, especially considering that old projects often **transition to new developers.** Having a reliable source that clearly **defines the business logic and its intended functionality** is essential for ensuring that it continues to work as intended.
+
+---
 
 ## Core principles
 
