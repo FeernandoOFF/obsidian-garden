@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"noteIcon":"","created":"2022-10-04T22:13:24.000+01:00","updated":"2023-10-25T10:26:41.694+01:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home 👋","tags":["status/done","gardenEntry"],"dgShowTags":"false","noteIcon":"","created":"2022-10-04T22:13:24.000+01:00"}
 ---
 
-![Random Image.webp|80%](/img/user/Files/Random%20Image.webp)
+![Random Image.webp|400](/img/user/Files/Random%20Image.webp)
 
 # Home 👋
 
@@ -43,9 +43,9 @@ You can have a look at my latest updated posts
 - [[Zettelkasten/Android Fragments\|Android Fragments]]
 - [[Zettelkasten/Android Google Assistant Integration\|Android Google Assistant Integration]]
 - [[Zettelkasten/Android Gradle\|Android Gradle]]
-- [[Zettelkasten/About me\|About me]]
 - [[Zettelkasten/Android Single-activity application\|Android Single-activity application]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
+- [[Zettelkasten/About me\|About me]]
 
 { .block-language-dataview}
 ##### MOCS
