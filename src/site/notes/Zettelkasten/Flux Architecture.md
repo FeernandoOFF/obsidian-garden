@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/flux-architecture/","title":"Flux Architecture","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T15:30:54.348+01:00","updated":"2023-10-27T15:31:04.931+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/flux-architecture/","title":"Flux Architecture","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T15:30:54.348+01:00"}
 ---
 
 
