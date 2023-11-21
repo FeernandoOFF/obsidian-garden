@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/why-choose-web-development/","title":"Why choose web development","tags":["core/tech/web-development","status/done"],"noteIcon":"","created":"2023-10-10T12:55:53.669+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/why-choose-web-development/","title":"Why choose web development","tags":["core/tech/web-development","status/done"],"created":"2023-10-10T12:55:53.669+01:00"}
 ---
 
 ## Reasons to choose web development
