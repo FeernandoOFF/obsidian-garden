@@ -127,9 +127,16 @@ The main plugins I use are:
 
 ### Code editors
 
+> [!NOTE] Keybindings
+> Because I move across different IDEs and Text editors I try to keep in sync all my configurations 
+
+
 #### Nvim
+I use NeoVim for editing small files or projects, so what I look for 
 ```
 brew install neovim
+
+ln -s ~/dotfiles/nvim/ ~/.config/nvim
 ```
 
 #### Jetbrains
