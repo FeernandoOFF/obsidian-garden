@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/unidirectional-data-flow/","title":"Unidirectional Data Flow","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:44:24.825+01:00","updated":"2023-10-27T11:44:49.909+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/unidirectional-data-flow/","title":"Unidirectional Data Flow","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T11:44:24.825+01:00"}
 ---
 
 
