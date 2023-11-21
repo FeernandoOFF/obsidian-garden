@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-data-layer/","title":"The Data layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"noteIcon":"","created":"2023-10-27T17:57:52.853+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-data-layer/","title":"The Data layer","tags":["status/todo","core/tech/fundamentals/design-patterns"],"created":"2023-10-27T17:57:52.853+01:00"}
 ---
 
 
