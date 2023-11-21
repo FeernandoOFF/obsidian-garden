@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/min-max/","title":"Min-max","tags":["status/todo","core/productivity"],"noteIcon":"","created":"2023-10-25T10:25:46.620+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/min-max/","title":"Min-max","tags":["status/todo","core/productivity"],"created":"2023-10-25T10:25:46.620+01:00"}
 ---
 
 
