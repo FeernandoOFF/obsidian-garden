@@ -41,7 +41,7 @@ body {
 
 
 .markdown-rendered{
-  h1:first-of-type {
+  h1:nth-child(1) {
     font-size: 4rem;
   }
   h1,h2,h3,h4,h5,h6 {
@@ -81,13 +81,15 @@ body {
 }
 
 .sidebar {
-  .toc {
+  top: 9rem;
+  
+  .toc,.graph-title-container {
     background: none;
     padding: 0px;
     border: none;
     border-radius: 0px;
   }
-  .toc-title {
+  .toc-title,.graph-title {
     font-family: var(--h1-font);
     font-size: 2.2rem !important
   }
@@ -95,7 +97,10 @@ body {
     content: "* " !important;
     color: var(--text-neutral);
   }
-  .toc-container li a {
-    color: var(--text-neutral);
+  .toc-container{ 
+    border-left: none;
+    li a {
+      color: var(--text-neutral);
+    }
   }
 }
