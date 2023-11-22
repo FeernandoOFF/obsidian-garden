@@ -39,10 +39,14 @@ body {
   background-color: #1C1828;
 }
 
+#navbar-title {
+  font-family: var(--h1-font);
+  font-size: 2rem;
+}
 
 .markdown-rendered{
   header h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
   
   h1,h2,h3,h4,h5,h6 {
