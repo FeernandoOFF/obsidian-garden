@@ -31,8 +31,8 @@ All the standards come from different resources, such as:
  - [[Zettelkasten/ISO\|ISO]]
  - [[ECMA\|ECMA]]
 
-- [[Zettelkasten/HTML\|HTML]]  
-- [[Zettelkasten/CSS\|CSS]]
+- [[Zettelkasten/HTML MOC\|HTML MOC]]  
+- [[Zettelkasten/CSS Moc\|CSS Moc]]
 - [[Zettelkasten/JavaScript MOC\|JavaScript MOC]]
 - [[Web Assembly\|Web Assembly]]
 
