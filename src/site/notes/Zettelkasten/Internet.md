@@ -8,7 +8,7 @@
 ### What is the Internet
 > TL;DR The internet is the physical layer that allows a device connect to each other via wire connection, wireless trough a local network or to the other side of the world with ISP and underwater cables.
 
-The internet refers to a global network of **interconnected computers and devices** that enables the **exchange of information** and communication through a **standardized set of protocols**. It allows users to access a wide range of services, like the [[Zettelkasten/World Wide Web\|Web]], [[Zettelkasten/Internet of Things\|IoT]] and many other inter-connected interactions between devices.
+The internet refers to a global network of **interconnected computers and devices** that enables the **exchange of information** and communication through a **standardized set of protocols**. It allows users to access a wide range of services, like the [[Zettelkasten/World Wide Web\|Web]], [[Zettelkasten/Internet of Things MOC\|IoT]] and many other inter-connected interactions between devices.
 
 
 ### History
