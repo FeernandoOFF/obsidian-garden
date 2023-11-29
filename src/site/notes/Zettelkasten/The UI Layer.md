@@ -40,14 +40,14 @@ The state holders can come in a wide set of names, but he most common ones are:
 
 ## Best practices
 
-#### Design Patterns
+#### Architecture Patterns
 
 There are multiple Design patterns that can help us avoid common mistakes on the UI layer.
 ##### [[Zettelkasten/MVVM\|MVVM]]
 MVVM is the Go-To in Modern Mobile Development, and it works well by separating the UI data from the UI state, for Complex applications you can use [[MVI\|MVI]]
 
+##### [[Zettelkasten/MVC\|MVC]]
 ##### [[Zettelkasten/Flux Architecture\|Flux Architecture]]
-
 While MVVM is the option for Mobile development (but not limited to it) Flux architecture is the most used architecture in the web. This mainly because of the complexity and amount of components that a website can have.
 
 ---
