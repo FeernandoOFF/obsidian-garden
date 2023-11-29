@@ -5,7 +5,8 @@
 
 # Single Responsibility
 
-### What is Single Responsibility Priciple?
+### What is Single Responsibility Principle?
+
 Each module of the solution should have one and only one reason for change. Let me give you an example: one class has two methods: to calculate taxes and to send calculated taxes with an email.
 
 
