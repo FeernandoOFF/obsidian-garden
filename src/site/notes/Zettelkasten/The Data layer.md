@@ -66,7 +66,9 @@ Often, when a **repository only contains a single data source** and doesn't depe
 
 It's often the case that the network and local data sources retrieve different information, and you're most likely to not use all the data in a response.  At minimum, it's recommended that you create new models in any case where a data source receives data that doesn't match with what the rest of your app expects.
 
-
+### Architecture Patterns
+- [[Repository Pattern\|Repository Pattern]]
+- [[Data Mapper Pattern\|Data Mapper Pattern]]
 ## Relates to
 ## References
 
