@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-apps/","title":"Architecture patterns","tags":["status/todo","core/tech/fundamentals"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","created":"2023-10-11T11:53:54.133+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/architecture-patterns-for-building-apps/","title":"Architecture patterns for Apps","tags":["status/todo","core/tech/fundamentals"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","created":"2023-10-11T11:53:54.133+01:00"}
 ---
 
 
@@ -84,35 +84,56 @@ If you base your app architecture on data model classes, you make your app more 
 
 ## Most know architecture patterns
 
-Before we dive into the architecture patterns I'd like to categorise them based on the areas they focus on and I believe that [[Zettelkasten/Clean Architecture\|Clean Architecture]] makes the separation  very easy to understand by having  **presentation, data and domain layers** . 
+Before we dive into the architecture patterns I'd like to **categorise them** based on the **areas they focus on** and I believe that [[Zettelkasten/Clean Architecture\|Clean Architecture]] makes the separation  very easy to understand by having  **presentation, data and domain layers** . 
 So instead of a full list of architecture patterns I will give you a list of architectures for each layer and how they can interact with each other.
 
 
 > [!tip]- See App architecture
  ![Pasted image 20231026145233.png|{width=70%}](/img/user/Files/Pasted%20image%2020231026145233.png)
 
-#### [[The UI Layer \|The UI Layer ]]
+#### The UI Layer
+ 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/the-ui-layer/#architecture-patterns" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-- [[Zettelkasten/MVVM\|MVVM]]
-- [[MVI\|MVI]]
 
-- [[Zettelkasten/MVC\|MVC]]
 
-- [[Zettelkasten/Flux Architecture\|Flux Architecture]]
-- [[Component Architecture\|Component Architecture]]
+#### Architecture Patterns
 
-#### Data layer
+There are multiple Design patterns that can help us avoid common mistakes on the UI layer.
+##### [[Zettelkasten/MVVM\|MVVM]]
+MVVM is the Go-To in Modern Mobile Development, and it works well by separating the UI data from the UI state, for Complex applications you can use [[MVI\|MVI]]
 
+##### [[Zettelkasten/MVC\|MVC]]
+##### [[Zettelkasten/Flux Architecture\|Flux Architecture]]
+While MVVM is the option for Mobile development (but not limited to it) Flux architecture is the most used architecture in the web. This mainly because of the complexity and amount of components that a website can have.
+
+---
+
+
+</div></div>
+
+
+#### The Data layer
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/the-data-layer/#architecture-patterns" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Architecture Patterns
 - [[Repository Pattern\|Repository Pattern]]
 - [[Data Mapper Pattern\|Data Mapper Pattern]]
 
+</div></div>
 
 
 
----
-Separation of concerns
-Uni directional flow
+#### [[Zettelkasten/The Domain layer\|The Domain layer]]
 
+The domain layer just contains pure-logic and no architecture pattern should be necessary as the class is not tided to the app's lifecycle or framework, but here are some recommendations when you need to implement them.
+
+1. **Multiple sources**: If your app uses local and remote resources and you have to make operations on top of them i.e get the newest or merge objects, this is a place where a Domain Layer can help you. A `useCase`  might be of help for you and if the data model is different you can create a common `model` for your dataSources.
+
+2. **Joining Repositories**: If you need to inject multiple repositories and perform repetitive operations on them to join them in your UI layer (such as ViewModel), consider creating a separate `repository` that handles the joining of those two repositories.
 
 ## Relates to
 [[Architecture Patterns for Building WebApps\|Architecture Patterns for Building WebApps]]
