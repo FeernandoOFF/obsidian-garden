@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"App architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","created":"2023-10-11T10:29:59.521+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/clean-architecture/","title":"Clean Architecture","tags":["status/todo","core/tech"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgEnableSearch":"false","dgShowTags":"false","created":"2023-10-11T10:29:59.521+01:00"}
 ---
 
-# Clean Architecture
 
 ## What is Clean architecture?
 
@@ -69,18 +68,16 @@ Clean architecture is typically used for projects that aim to **grow over time**
 
 ## Core principles
 
-Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core Principles\|Core Principles of a good Architecture patterns]] clean architecture also encourages:
-#### [[Zettelkasten/Separation of concerns\|Separation of concerns]]
-#### [[Zettelkasten/Single source of truth\|Single source of truth]]
-#### [[Zettelkasten/Unidirectional Data Flow\|Unidirectional Data Flow]]
+Clean architecture encourages the use of the following principles:
 
-#### [[Zettelkasten/Single Responsibility\|Single Responsibility]]
-#### [[Zettelkasten/Open-Closed\|Open-Closed]]
-#### [[Zettelkasten/Interface Segregation\|Interface Segregation]]
+- [[Zettelkasten/Separation of concerns\|Separation of concerns]]: Avoid overloading a component of functionality. It's better to split it
+- [[Zettelkasten/Single source of truth\|Single source of truth]]: Have a single component that allows you to fetch a single class.
+- [[Zettelkasten/Unidirectional Data Flow\|Unidirectional Data Flow]]:  The state should go in only one direction.
+- [[Zettelkasten/Single Responsibility\|Single Responsibility]]: A class should be responsible for a single, well-defined functionality and should encapsulate that responsibility
+- [[Zettelkasten/Open-Closed\|Open-Closed]]: The class should be able to modify its behaviour without modifying the code.
+- [[Zettelkasten/Interface Segregation\|Interface Segregation]]: If a class doesn't use an interface, it's better to split it.
+- [[Zettelkasten/Dependency Inversion\|Dependency Inversion]]: Business rules should't depend on the framework or UI state.
 
-#### [[Zettelkasten/Dependency Inversion\|Dependency Inversion]]
-
-## Implementation
 
 ---
 
@@ -93,14 +90,16 @@ Besides the common [[Zettelkasten/Architecture Patterns for Building apps#Core P
 
 
 ---
-#### Implementation for different platforms
+## Implementation for different platforms
 
+Examples of how the Clean Architecture concepts and principles can be applied to different technologies and purposes.
+
+##### [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
 ##### [[Clean Principles In iOS Development\|Clean Principles In iOS Development]]
 ##### [[Zettelkasten/How to structure a Web project\|How to structure a Web project]]
 ##### [[Zettelkasten/How to structure an Android Project\|How to structure an Android Project]]
 ##### [[Clean Principles for Web Backend Development\|Clean Principles for Web Backend Development]]
 
-[[Principles for \|Principles for ]]
 
 ## Relates to
 
