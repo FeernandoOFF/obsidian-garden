@@ -8,7 +8,7 @@
 ## What is astro?
 Astro is a [[Framework\|Framework]] to build **static sites**. The interesting part is how easy it becomes to create static sites from different data sources, such as [[Zettelkasten/API\|API]]s, [[Zettelkasten/Markdown\|Markdown]] and MDX. And also the superpower of integrating **different frontend frameworks** and Libraries into the **same project** 
 
-> Personally I'd use astro to create regular sites and even e-commerce websites that need high SEO
+> Personally I'd use astro to create regular sites and even e-commerce websites that are content-heavy
 
 ### Getting started
 
