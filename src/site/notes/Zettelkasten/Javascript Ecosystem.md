@@ -23,6 +23,7 @@ JS Bundlers
 - [[Zettelkasten/React\|React]]
 - [[Vue\|Vue]]
 - [[Zettelkasten/Svelte\|Svelte]]
+- [[Zettelkasten/Astro\|Astro]]
 
 
 ##### Backend
