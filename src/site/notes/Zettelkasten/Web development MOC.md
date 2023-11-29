@@ -13,9 +13,10 @@
 	1. [[Zettelkasten/Internet\|Internet]]
 	2. [[Zettelkasten/World Wide Web\|World Wide Web]]
 	3. [[Zettelkasten/HTTP\|HTTP]]
-3. Client-Server architecture
+	4. [[Zettelkasten/Client-Server architecture\|Client-Server architecture]]
 
 ## Front-end Development
+
 1. [[Zettelkasten/HTML MOC\|HTML]]
 2. [[Zettelkasten/CSS Moc\|CSS]]
 3. [[Zettelkasten/JavaScript MOC\|JavaScript]]
@@ -24,7 +25,13 @@
 6. [[Zettelkasten/Web site vs Web App architecture\|Web site vs Web App architecture]]
 	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
 	- [[What makes a good app?\|What makes a good app?]]
-7. [[PWA\|PWA]]
+- Hosting
+
+- [[SEO\|SEO]]
+- [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
+- Payments
+- Augmented Reality on the Web
+
 ## Back-end Development
 1. What is a Backend Server
 2.  [[Hosting Services\|How to Host a backend Server]]
@@ -33,28 +40,28 @@
 	2. [[Python\|Python]]
 	3. [[Rust\|Rust]]
 	4. [[Go\|Go]]
+4. Authentication
+5. Scaling
+6. Hosting
+7. Deployment
+	1. Cloud Services
+	2. Server
+	3. Serverless
+	4. Edge
+	5. VPS
+		1. CI/CD
+8. Architectures
+	1. Restful
+	2. gRPC
+	3. Microservices
 
 
 
-## Web security and best practices
-- [[SEO\|SEO]]
-- [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
-- Payments
-- Augmented Reality on the Web
 ## Web testing
 - [[Web Scrapping\|Web Scrapping]]
 •	Frontend Testing
 •	Backend Testing
 •	Performance Testing
-## Web deployment
-
-•	Deployment Strategies
-	•	DevOps and Continuous Integration/Deployment
-	•	Server Configuration
-	•	Server Administration
-	•	Cloud Services
-	•	Monitoring and Scaling
-
 
 ## References
 
