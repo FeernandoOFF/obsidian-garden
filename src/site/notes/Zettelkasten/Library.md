@@ -11,7 +11,7 @@ This note holds most of my interests and different MOCS within those topics:
 
 ## 000 - Tech
 
-[[Zettelkasten/Technology MOC\|Tech MOC]] | [[Zettelkasten/Web development MOC\|Web Development MOC]] | [[Zettelkasten/Android Development MOC\|Android Development MOC]] | [[Zettelkasten/iOS MOC\|iOS MOC]] | [[Zettelkasten/Internet of Things MOC\|Internet of Things MOC]] | [[Zettelkasten/AI MOC\|AI MOC]] | 
+[[Zettelkasten/Computer Science MOC\|Computer Science MOC]] | [[Zettelkasten/Web development MOC\|Web Development MOC]] | [[Zettelkasten/Android Development MOC\|Android Development MOC]] | [[Zettelkasten/iOS MOC\|iOS MOC]] | [[Zettelkasten/Internet of Things MOC\|Internet of Things MOC]] | [[Zettelkasten/AI MOC\|AI MOC]] | 
 
 
 ## 100 - History & Geography
