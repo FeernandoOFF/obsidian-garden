@@ -12,7 +12,7 @@
 > Concepts
 
 
-
+> [Awesome](https://github.com/HQarroum/awesome-iot#readme)
 
 
 ## Relates to
