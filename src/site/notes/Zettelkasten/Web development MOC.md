@@ -17,22 +17,37 @@
 
 ## Front-end Development
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/frontend-development-moc/#introduction" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Introduction
+
 1. [[Zettelkasten/HTML MOC\|HTML]]
 2. [[Zettelkasten/CSS Moc\|CSS]]
+	1. [[Responsive Design\|Responsive Design]]
 3. [[Zettelkasten/JavaScript MOC\|JavaScript]]
 4. [[How a Browser works\|How a Browser works]]
 5. [[Content Delivery Network (CDN)\|Content Delivery Network (CDN)]]
 6. [[Zettelkasten/Web site vs Web App architecture\|Web site vs Web App architecture]]
 	- [[Zettelkasten/What makes a good website?\|What makes a good website?]]
 	- [[What makes a good app?\|What makes a good app?]]
-- Hosting
+7. [[Zettelkasten/Chrome DevTools\|Chrome DevTools]]
+8. [[Web Assembly\|Web Assembly]]
 
-- [[SEO\|SEO]]
-- [[Zettelkasten/Accessibility in the Web (A11y)\|Accessibility in the Web (A11y)]]
-- Payments
-- Augmented Reality on the Web
+
+</div></div>
+
 
 ## Back-end Development
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Introduction
 1. What is a Backend Server
 2.  [[Hosting Services\|How to Host a backend Server]]
 3. Server-side languages
@@ -54,13 +69,14 @@
 	1. Restful
 	2. gRPC
 	3. Microservices
+	4. Backend Testing
+
+</div></div>
 
 
 
 ## Web testing
 - [[Web Scrapping\|Web Scrapping]]
-•	Frontend Testing
-•	Backend Testing
 •	Performance Testing
 
 ## References
