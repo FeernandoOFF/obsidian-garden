@@ -33,19 +33,20 @@ This garden can be quite overwhelming so feel free to use any of the options sho
 
 ##### Library
 My library is where I gather most of my interests and MOCs.
-- [[Zettelkasten/Library\|Library]]
+###### [[Zettelkasten/Library\|Library]]
+
 ##### Recently updated posts
 You can have a look at my latest updated posts
-- [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
-- [[Zettelkasten/The Data layer\|The Data layer]]
-- [[Zettelkasten/The UI Layer\|The UI Layer]]
-- [[Zettelkasten/Design Pattern\|Design Pattern]]
-- [[Zettelkasten/Clean Architecture\|Clean Architecture]]
-- [[Zettelkasten/Open-Closed\|Open-Closed]]
-- [[Zettelkasten/Single Responsibility\|Single Responsibility]]
+- [[Zettelkasten/Internet of Things MOC\|Internet of Things MOC]]
+- [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
 - [[Zettelkasten/Library\|Library]]
 - [[Zettelkasten/Technology MOC\|Technology MOC]]
+- [[Zettelkasten/Frontend Development MOC\|Frontend Development MOC]]
+- [[Zettelkasten/JavaScript MOC\|JavaScript MOC]]
+- [[Zettelkasten/Javascript Ecosystem\|Javascript Ecosystem]]
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
+- [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
+- [[Zettelkasten/The Data layer\|The Data layer]]
 
 { .block-language-dataview}
 ##### MOCS
