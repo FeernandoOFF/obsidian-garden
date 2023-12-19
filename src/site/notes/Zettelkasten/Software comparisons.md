@@ -8,16 +8,12 @@
 In this note I list software that I've tried as a reminder for me in the future to know why I choose to adopt them into [[Zettelkasten/My digital environment\|My digital environment]]
 
 ## Ecosystems
-[[Zettelkasten/Made by Google 2023\|Made by Google 2023]]
-[[Zettelkasten/Apple Ecosystem\|Apple Ecosystem]]
 
-| Ecosystem | Phone  | Laptop      | SmartWatch | Headphones   |
-| --------- | ------ | ----------- | ---------- | ------------ |
-| Apple     | IPhone | MacBook     | AppleWatch | AirPods/ Max |
-| Google    | Pixel  | Chomebook~ | PxielWatch | EarBuds      |
-
+I've created a full note about this as I think it is something to take on mind when faced with options [[Zettelkasten/Ecosystem Comparison\|Ecosystem Comparison]]
 
 ## Code Editors
+
+> For code Editors I've decided to go with all the JetBrains IDEs for big projects and portability of settings and vim motions and NeoVim for a super-fast edits and to connect to servers trough SSH.
 
 | Name     | Fast Launch | Big Projects | Configurable | Portable | Easy to learn use/reuse |
 | -------- | ----------- | ------------ | ------------ | -------- | ----------------------- |
@@ -29,6 +25,10 @@ In this note I list software that I've tried as a reminder for me in the future 
 
 ## Note-taking apps
 
+> For notes I have two requirements: No platform lock-in and offline-first. This leads me to Obsidian and LogSeq. So far for maturity I've choosen Obsidian but I don't like the fact that it is not open-sourced at some point I'd like to migrate to LogSeq, but as they share the markdown approach there's no hurry.
+>
+> For project-management and freelance related stuff I'm planning to use Notion and allow people to access it.
+
 | Name        | Local (Offline First) | Pricing | MultiPlatform | Journal | Linking | Task Management | Drawings | Extensibility |
 | ----------- | --------------------- | ------- | ------------- | ------- | ------- | --------------- | -------- | ------------- |
 | Obsidian    | Yes                   | 0       | Yes           | Yes     | Yes     | ~               | Yes      | Yes           |
@@ -38,16 +38,32 @@ In this note I list software that I've tried as a reminder for me in the future 
 
 
 ## Browsers
+> Arc, that's all.
+> SigmaOS seems like an interesting option too.
+> Chrome and Safari are good 
+
 | Name     | Accessible | Fast | Extensible | Pinned-tabs |
 | -------- | ---------- | ---- | ---------- | ----------- |
 | Arc      |            |      |            |             |
-| Sidekick |            |      |            |             |
-|          |            |      |            |             |
+| SigmaOS  |            |      |            |             |
+| Safari         |            |      |            |             |
+
 ## Image Creation with AI
-| Name      | Pricing | Powerful | API | Extensible   |
-| --------- | ------- | -------- | --- | ------------ |
-| Midjurney | 10      | Yes      | No  | No |
-| OpenAI    | 30      | Yes      | Yes | Yes          |
+| Name        | Pricing | Powerful | API  | Extensible | Features |
+| ----------- | ------- | -------- | ---- | ---------- | -------- |
+| Midjurney   | 10      | ✅       | 👎🏼 | 👎🏼       | 👎🏼     |
+| OpenAI      | 30      | Yes      | ✅   | ✅         | 👎       |
+| Leonardo AI | 10        | ✅       | ✅   | 👎         | ✅       |
+
+## AI Chats
+
+
+| Name    | Pricing | Powerful | API | MultiModal |
+| ------- | ------- | -------- | --- | ---------- |
+| Bard    | 0       | ✅       | 👎  | 👎         |
+| ChatGPT | 30      | ✅       | ✅  | ✅         |
+| Bing    |         | ✅       | 👎  | 👎            |
+
 
 ## Time-tracking apps
 
