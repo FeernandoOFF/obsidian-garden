@@ -38,6 +38,10 @@ fun main(args: Array) {    val engine = Engine()    val car = Car(engine)  
 }
 ```
 ![Pasted image 20231027171909.png](/img/user/Files/Pasted%20image%2020231027171909.png)
+
+---
+
+[[Zettelkasten/Android Dependency Injection\|Android Dependency Injection]]
 ## Relates to
 [Google's Dependency Injection Guide](https://developer.android.com/training/dependency-injection)
 ## References
