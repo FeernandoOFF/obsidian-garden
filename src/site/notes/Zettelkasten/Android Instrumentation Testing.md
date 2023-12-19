@@ -9,7 +9,9 @@
 - Create a `androidTest/java` folder inside your `src` directory
 - Create a *package* by right-clicking and selecting `New -> Package`
 - Create a Kotlin file 
+
 --
+
 ```kotlin
 import androidx.compose.ui.test.junit4.createComposeRule
 import org.junit.Rule
