@@ -37,23 +37,23 @@ My library is where I gather most of my interests and MOCs.
 
 ##### Recently updated posts
 You can have a look at my latest updated posts
-- [[Zettelkasten/Internet of Things MOC\|Internet of Things MOC]]
-- [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
 - [[Zettelkasten/Library\|Library]]
-- [[Zettelkasten/Technology MOC\|Technology MOC]]
-- [[Zettelkasten/Frontend Development MOC\|Frontend Development MOC]]
-- [[Zettelkasten/JavaScript MOC\|JavaScript MOC]]
-- [[Zettelkasten/Javascript Ecosystem\|Javascript Ecosystem]]
-- [[Zettelkasten/Web development MOC\|Web development MOC]]
-- [[Zettelkasten/Architecture Patterns for Building apps\|Architecture Patterns for Building apps]]
-- [[Zettelkasten/The Data layer\|The Data layer]]
+- [[Zettelkasten/iOS MOC\|iOS MOC]]
+- [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
+- [[Zettelkasten/End to End Testing\|End to End Testing]]
+- [[Zettelkasten/Integration Testing\|Integration Testing]]
+- [[Zettelkasten/Unit Testing\|Unit Testing]]
+- [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
+- [[Zettelkasten/Penpot\|Penpot]]
+- [[Zettelkasten/Software comparisons\|Software comparisons]]
+- [[Zettelkasten/Ecosystem Comparison\|Ecosystem Comparison]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
+- [[Zettelkasten/iOS MOC\|iOS MOC]]
 - [[Zettelkasten/Technology MOC\|Technology MOC]]
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
-- [[Zettelkasten/iOS MOC\|iOS MOC]]
 - [[Zettelkasten/Android Development MOC\|Android Development MOC]]
 - [[Zettelkasten/Artificial Intelligence MOC\|Artificial Intelligence MOC]]
 - [[Zettelkasten/AI MOC\|AI MOC]]
