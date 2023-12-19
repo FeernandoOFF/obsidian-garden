@@ -21,7 +21,7 @@ For this Map of content I've taken the  [CS2023](https://csed.acm.org/knowledge-
 •	Overview of computer science as a field of study
 •	Historical developments and evolution of computing
 - [[Zettelkasten/Why Technology is important\|Why Technology is important]]
-3. [[Advantages and benefits of technological advancements\|Advantages and benefits of technological advancements]]
+- [[Advantages and benefits of technological advancements\|Advantages and benefits of technological advancements]]
 
 
 ---
@@ -127,7 +127,7 @@ For this Map of content I've taken the  [CS2023](https://csed.acm.org/knowledge-
 
 1. [[Zettelkasten/Web development MOC\|Web development MOC]]
 2. [[Zettelkasten/Android Development MOC\|Android Development MOC]]
-3. [[Zettelkasten/iOS Development\|iOS Development]]
+3. [[Zettelkasten/iOS MOC\|iOS MOC]]
 4. [[Multiplatform Development\|Multiplatform Development]]
 8. [[Zettelkasten/Internet of Things MOC\|Internet of Things MOC]]
 9. [[Robotics\|Robotics]]
