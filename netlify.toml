@@ -13,6 +13,6 @@
   status = 404
 
 [[headers]]
-  for = "/public/*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
