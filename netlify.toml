@@ -12,3 +12,7 @@
   to = "/404"
   status = 404
 
+[[headers]]
+  for = "/public/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
