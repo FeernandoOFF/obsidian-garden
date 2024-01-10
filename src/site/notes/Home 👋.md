@@ -37,20 +37,21 @@ My library is where I gather most of my interests and MOCs.
 
 ##### Recently updated posts
 You can have a look at my latest updated posts
+- [[Zettelkasten/Software comparisons\|Software comparisons]]
+- [[Zettelkasten/Clean Architecture\|Clean Architecture]]
+- [[Zettelkasten/End to End Testing\|End to End Testing]]
+- [[Zettelkasten/Unit Testing\|Unit Testing]]
+- [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
 - [[Zettelkasten/Library\|Library]]
 - [[Zettelkasten/iOS MOC\|iOS MOC]]
-- [[Zettelkasten/Computer Science MOC\|Computer Science MOC]]
-- [[Zettelkasten/End to End Testing\|End to End Testing]]
 - [[Zettelkasten/Integration Testing\|Integration Testing]]
-- [[Zettelkasten/Unit Testing\|Unit Testing]]
 - [[Zettelkasten/Android Instrumentation Testing\|Android Instrumentation Testing]]
 - [[Zettelkasten/Penpot\|Penpot]]
-- [[Zettelkasten/Software comparisons\|Software comparisons]]
-- [[Zettelkasten/Ecosystem Comparison\|Ecosystem Comparison]]
 
 { .block-language-dataview}
 ##### MOCS
 You can have a look at my [[Maps of Content\|Maps of Content]]. 
+- [[Zettelkasten/Communication MOC\|Communication MOC]]
 - [[Zettelkasten/iOS MOC\|iOS MOC]]
 - [[Zettelkasten/Technology MOC\|Technology MOC]]
 - [[Zettelkasten/Web development MOC\|Web development MOC]]
