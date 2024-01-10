@@ -29,6 +29,7 @@ I've created a full note about this as I think it is something to take on mind w
 >
 > For project-management and freelance related stuff I'm planning to use Notion and allow people to access it.
 
+[[Zettelkasten/Note-Taking app comparison\|note-taking apps]]
 | Name        | Local (Offline First) | Pricing | MultiPlatform | Journal | Linking | Task Management | Drawings | Extensibility |
 | ----------- | --------------------- | ------- | ------------- | ------- | ------- | --------------- | -------- | ------------- |
 | Obsidian    | Yes                   | 0       | Yes           | Yes     | Yes     | ~               | Yes      | Yes           |
