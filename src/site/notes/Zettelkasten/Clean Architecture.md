@@ -3,19 +3,20 @@
 ---
 
 
-## What is Clean architecture?
+## What is clean architecture?
 
 Clean architecture is a **set of designs principles** that allow  a separation of software into layers, the main idea is that dependencies should **go from outer layers to inner layers**.
 
 ---
-## What does it solves?
+## What does it solve?
 
-Clean architecture provides guidelines that allows to solve common issues of the software industry, like:
-- Difficulties in Testing
-- Lack of modularity
-- Technology Lock-in
-- Poor scalability
-- Lack of Clarity and Documentation
+Clean architecture provides guidelines that allow us to solve common issues in the software industry, such as: 
+
+-  Difficulties in testing
+-  Lack of modularity
+-  Technology lock-in
+-  Poor scalability
+-  Lack of clarity and documentation
 
 All of these points are common issues that appear in a software project.
 
@@ -33,7 +34,7 @@ First I'd recommend to define the type of software that you're working on. I'd s
 2. **Longevity**: If the project is aiming to evolve and have a long lifespan, clean architecture provides solid guidelines to help the project grow in complexity
 3. **Team Size and Collaboration**: Clean Architecture provides clear boundaries and separation of concerns, making it easier for larger teams to work without many conflicts. 
 4. **Testability**: Clean architecture promotes testability by enabling unit test of business logic.
-5. **Cross-platform Development**: Clean Architecture facilitates cross-platform development by abstracting the core business logic from platform-specific details. This allows tho separate interfaces and share the core business logic.
+5. **Cross-platform Development**: Clean Architecture facilitates cross-platform development by abstracting the core business logic from platform-specific details. This allows to separate interfaces and share the core business logic.
 6. **Full-Stack**: If you or your team moves between platforms, clean architecture can allow you to be productive in new projects and start developing without knowing about the specific framework implementation.
 
 ---
@@ -45,7 +46,7 @@ First I'd recommend to define the type of software that you're working on. I'd s
 3. **Framework Limitations**:  If the project is tightly coupled to a specific framework or platform that doesn't align well with the principles of clean architecture, it might be more practical to opt for another architecture.
 
 
-> [!tip] Your app doesn't have to have all of this layers
+> [!tip] Your app doesn't have to have all of these layers
 > Google also recommends a CLEAN-ish architecture, you can see their [architecture guide here](https://developer.android.com/topic/architecture#recommended-app-arch)
 
 
