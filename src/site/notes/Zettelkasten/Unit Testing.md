@@ -24,9 +24,9 @@ Unit testing is a software testing approach where individual units or components
 
 - **Fast:** By running directly on your own workstation
 - **Easy to Implement:** Not too much setup involved and easy to just test output based on certain input
-- **Encourages separation of concerns**: By having to separate the business logic with OS-specific implementations. (A good idea is to create useCases or repositories)
 - **Short scope**: Because they don't work within the OS Framework you won't be able to integrate with it, thinks like clicks and lifecycles are outside of its scope
-
+- **Encourages separation of concerns**: By having to separate the business logic with OS-specific implementations. (A good idea is to create useCases or repositories)
+- **Easy to do wrong**: 
 ### Examples
 
 
