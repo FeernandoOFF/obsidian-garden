@@ -25,7 +25,7 @@ This note holds most of my interests and different MOCS within those topics:
 
 ## 300 - Languages & Communication
 
-[[Zettelkasten/English\|English]] | [[Zettelkasten/Spanish\|Spanish]] | [[French\|French]] | [[Portuguese\|Portuguese]]
+[[Zettelkasten/Communication MOC\|Communication MOC]] | [[Zettelkasten/English\|English]] | [[Zettelkasten/Spanish\|Spanish]] | [[French\|French]] | [[Portuguese\|Portuguese]]
 
 
 ## 400 - Design
