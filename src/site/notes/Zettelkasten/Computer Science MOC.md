@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/computer-science-moc/","title":"Computer Sience MOC","tags":["status/todo","core/tech"],"created":"2023-10-11T17:53:10.308+01:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/computer-science-moc/","title":"Computer Sience MOC","tags":["core/tech"],"created":"2023-10-11T17:53:10.308+01:00"}
 ---
 
 
@@ -43,8 +43,8 @@ For this Map of content I've taken the  [CS2023](https://csed.acm.org/knowledge-
 
 > [Curriculum](https://csed.acm.org/wp-content/uploads/2023/09/SE-Version-Gamma.pdf)
 
-- Testing
-- Comunication
+- [[Zettelkasten/Testing\|Testing]]
+- [[Zettelkasten/Communication MOC\|Communication]]
 - Teamwork
 - Design
 - Mantenance
